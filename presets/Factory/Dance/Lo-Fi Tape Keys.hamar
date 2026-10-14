@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Lo-Fi Tape Keys" category="Dance" author="Fjord" tags="Lo-Fi,Warm">
+  <Param id="fx_reverb_damp" value="0.50419"/>
+  <Param id="fx_reverb_decay" value="1.1849"/>
+  <Param id="fx_reverb_lowcut" value="120.97"/>
+  <Param id="fx_reverb_mix" value="0.15676"/>
+  <Param id="fx_reverb_mod" value="0.24905"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019404"/>
+  <Param id="fx_reverb_size" value="0.43767"/>
+  <Param id="fx_reverb_width" value="0.9787"/>
+  <Param id="model" value="29"/>
+  <Param id="preset_level" value="3.7"/>
+</HamarPreset>

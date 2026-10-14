@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Gamelan Strings" category="Fantasy" author="Fjord" tags="Bright">
+  <Param id="fan_prep" value="0.98419"/>
+  <Param id="fx_reverb_damp" value="0.49289"/>
+  <Param id="fx_reverb_decay" value="2.1583"/>
+  <Param id="fx_reverb_lowcut" value="120.33"/>
+  <Param id="fx_reverb_mix" value="0.20501"/>
+  <Param id="fx_reverb_mod" value="0.25403"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020426"/>
+  <Param id="fx_reverb_size" value="0.54543"/>
+  <Param id="fx_reverb_width" value="0.98633"/>
+  <Param id="model" value="32"/>
+  <Param id="preset_level" value="-6.2"/>
+  <Param id="string_inharm" value="1.5728"/>
+</HamarPreset>

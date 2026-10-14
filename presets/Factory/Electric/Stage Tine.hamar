@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Stage Tine" category="Electric" author="Fjord" tags="Warm,Vintage">
+  <Param id="fx_reverb_damp" value="0.51325"/>
+  <Param id="fx_reverb_decay" value="0.97235"/>
+  <Param id="fx_reverb_lowcut" value="117.71"/>
+  <Param id="fx_reverb_mix" value="0.11861"/>
+  <Param id="fx_reverb_mod" value="0.24555"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019894"/>
+  <Param id="fx_reverb_size" value="0.40511"/>
+  <Param id="fx_reverb_width" value="0.98387"/>
+  <Param id="model" value="14"/>
+  <Param id="preset_level" value="6.6"/>
+</HamarPreset>

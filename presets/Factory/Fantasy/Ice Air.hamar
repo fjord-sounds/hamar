@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Ice Air" category="Fantasy" author="Fjord" tags="Soft">
+  <Param id="fx_reverb_damp" value="0.49714"/>
+  <Param id="fx_reverb_decay" value="3.9788"/>
+  <Param id="fx_reverb_lowcut" value="122.33"/>
+  <Param id="fx_reverb_mix" value="0.29119"/>
+  <Param id="fx_reverb_mod" value="0.24352"/>
+  <Param id="fx_reverb_mode" value="4"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019526"/>
+  <Param id="fx_reverb_size" value="0.70716"/>
+  <Param id="fx_reverb_width" value="1.0104"/>
+  <Param id="layer_attack" value="0.90529"/>
+  <Param id="layer_level" value="0.40393"/>
+  <Param id="layer_type" value="2"/>
+  <Param id="model" value="31"/>
+  <Param id="preset_level" value="-1.2"/>
+</HamarPreset>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Front Off Upright" category="Upright" author="Fjord" tags="Bright,Pop">
+  <Param id="fx_reverb_damp" value="0.48867"/>
+  <Param id="fx_reverb_decay" value="0.99622"/>
+  <Param id="fx_reverb_lowcut" value="119.57"/>
+  <Param id="fx_reverb_mix" value="0.139"/>
+  <Param id="fx_reverb_mod" value="0.24796"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019527"/>
+  <Param id="fx_reverb_size" value="0.39007"/>
+  <Param id="fx_reverb_width" value="1.0038"/>
+  <Param id="model" value="8"/>
+  <Param id="preset_level" value="-0.5"/>
+  <Param id="upright_panel" value="2"/>
+</HamarPreset>

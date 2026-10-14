@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Schubert Fortepiano" category="Historic" author="Fjord" tags="Vintage,Warm">
+  <Param id="fx_reverb_damp" value="0.50866"/>
+  <Param id="fx_reverb_decay" value="2.1463"/>
+  <Param id="fx_reverb_lowcut" value="121.08"/>
+  <Param id="fx_reverb_mix" value="0.21882"/>
+  <Param id="fx_reverb_mod" value="0.24827"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020354"/>
+  <Param id="fx_reverb_size" value="0.58376"/>
+  <Param id="fx_reverb_width" value="0.98166"/>
+  <Param id="model" value="21"/>
+  <Param id="preset_level" value="3.3"/>
+</HamarPreset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Soulful House Keys" category="Dance" author="Fjord" tags="Warm,Soft">
+  <Param id="fx_reverb_damp" value="0.50213"/>
+  <Param id="fx_reverb_decay" value="2.2342"/>
+  <Param id="fx_reverb_lowcut" value="117.07"/>
+  <Param id="fx_reverb_mix" value="0.20048"/>
+  <Param id="fx_reverb_mod" value="0.25622"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020075"/>
+  <Param id="fx_reverb_size" value="0.56553"/>
+  <Param id="fx_reverb_width" value="0.99837"/>
+  <Param id="layer_level" value="0.30796"/>
+  <Param id="layer_type" value="0"/>
+  <Param id="model" value="27"/>
+  <Param id="preset_level" value="1.1"/>
+</HamarPreset>

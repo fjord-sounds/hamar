@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Kitchen Song" category="Upright" author="Fjord" tags="Intimate,Warm">
+  <Param id="fx_reverb_damp" value="0.50183"/>
+  <Param id="fx_reverb_decay" value="0.58758"/>
+  <Param id="fx_reverb_lowcut" value="122.09"/>
+  <Param id="fx_reverb_mix" value="0.10087"/>
+  <Param id="fx_reverb_mod" value="0.24353"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020254"/>
+  <Param id="fx_reverb_size" value="0.24498"/>
+  <Param id="fx_reverb_width" value="1.0224"/>
+  <Param id="mic_a_y" value="0.35018"/>
+  <Param id="mic_b_level" value="-2.0554"/>
+  <Param id="model" value="9"/>
+  <Param id="preset_level" value="3"/>
+</HamarPreset>

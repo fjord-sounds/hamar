@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Dream Tine" category="Electric" author="Fjord" tags="Soft,Warm">
+  <Param id="ep_pickup" value="0.197"/>
+  <Param id="fx_delay_damp" value="0.5024"/>
+  <Param id="fx_delay_feedback" value="0.34624"/>
+  <Param id="fx_delay_lowcut" value="205.14"/>
+  <Param id="fx_delay_mix" value="0.11646"/>
+  <Param id="fx_delay_mode" value="1"/>
+  <Param id="fx_delay_note" value="9"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.4954"/>
+  <Param id="fx_reverb_decay" value="4.4075"/>
+  <Param id="fx_reverb_lowcut" value="117.18"/>
+  <Param id="fx_reverb_mix" value="0.31981"/>
+  <Param id="fx_reverb_mod" value="0.25224"/>
+  <Param id="fx_reverb_mode" value="3"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020553"/>
+  <Param id="fx_reverb_shimmer" value="0.30015"/>
+  <Param id="fx_reverb_size" value="0.80262"/>
+  <Param id="fx_reverb_width" value="1.0147"/>
+  <Param id="model" value="15"/>
+  <Param id="preset_level" value="6.5"/>
+</HamarPreset>

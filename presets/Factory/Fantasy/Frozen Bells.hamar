@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Frozen Bells" category="Fantasy" author="Fjord" tags="Bright,Soft">
+  <Param id="fan_ring" value="0.4934"/>
+  <Param id="fx_reverb_damp" value="0.49395"/>
+  <Param id="fx_reverb_decay" value="4.0465"/>
+  <Param id="fx_reverb_lowcut" value="120.04"/>
+  <Param id="fx_reverb_mix" value="0.30117"/>
+  <Param id="fx_reverb_mod" value="0.25144"/>
+  <Param id="fx_reverb_mode" value="4"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020558"/>
+  <Param id="fx_reverb_size" value="0.76489"/>
+  <Param id="fx_reverb_width" value="1.0108"/>
+  <Param id="model" value="31"/>
+  <Param id="preset_level" value="-1.5"/>
+</HamarPreset>

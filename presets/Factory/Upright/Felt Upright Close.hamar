@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Felt Upright Close" category="Upright" author="Fjord" tags="Felt,Intimate,Soft">
+  <Param id="fx_reverb_damp" value="0.49665"/>
+  <Param id="fx_reverb_decay" value="0.71829"/>
+  <Param id="fx_reverb_lowcut" value="118.03"/>
+  <Param id="fx_reverb_mix" value="0.099517"/>
+  <Param id="fx_reverb_mod" value="0.24926"/>
+  <Param id="fx_reverb_mode" value="5"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020018"/>
+  <Param id="fx_reverb_size" value="0.29258"/>
+  <Param id="fx_reverb_width" value="0.97508"/>
+  <Param id="hammer_key_noise" value="0.56451"/>
+  <Param id="mic_a_y" value="0"/>
+  <Param id="mic_b_level" value="-12.171"/>
+  <Param id="model" value="11"/>
+  <Param id="pedal_noise" value="0.49593"/>
+  <Param id="preset_level" value="-0.3"/>
+</HamarPreset>

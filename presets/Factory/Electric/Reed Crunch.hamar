@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Reed Crunch" category="Electric" author="Fjord" tags="Vintage,Bright">
+  <Param id="ep_drive" value="0.63139"/>
+  <Param id="ep_pickup" value="0.72756"/>
+  <Param id="fx_reverb_damp" value="0.50335"/>
+  <Param id="fx_reverb_decay" value="0.88729"/>
+  <Param id="fx_reverb_lowcut" value="122.09"/>
+  <Param id="fx_reverb_mix" value="0.10117"/>
+  <Param id="fx_reverb_mod" value="0.25186"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019467"/>
+  <Param id="fx_reverb_size" value="0.34436"/>
+  <Param id="fx_reverb_width" value="1.0015"/>
+  <Param id="model" value="16"/>
+  <Param id="preset_level" value="0.2"/>
+</HamarPreset>

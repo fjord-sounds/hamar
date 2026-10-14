@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Harpsichord Two Choirs" category="Historic" author="Fjord" tags="Vintage,Bright">
+  <Param id="fx_reverb_damp" value="0.51382"/>
+  <Param id="fx_reverb_decay" value="1.9807"/>
+  <Param id="fx_reverb_lowcut" value="122.44"/>
+  <Param id="fx_reverb_mix" value="0.19664"/>
+  <Param id="fx_reverb_mod" value="0.24701"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020164"/>
+  <Param id="fx_reverb_size" value="0.59857"/>
+  <Param id="fx_reverb_width" value="1.01"/>
+  <Param id="hist_register" value="1"/>
+  <Param id="model" value="23"/>
+  <Param id="preset_level" value="3.3"/>
+</HamarPreset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Imperial Night" category="Grand" author="Fjord" tags="Dark,Concert">
+  <Param id="fx_reverb_damp" value="0.51354"/>
+  <Param id="fx_reverb_decay" value="3.5005"/>
+  <Param id="fx_reverb_lowcut" value="116.71"/>
+  <Param id="fx_reverb_mix" value="0.25708"/>
+  <Param id="fx_reverb_mod" value="0.24436"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.040341"/>
+  <Param id="fx_reverb_size" value="0.83282"/>
+  <Param id="fx_reverb_width" value="0.97588"/>
+  <Param id="hammer_hardness" value="-0.30872"/>
+  <Param id="model" value="1"/>
+  <Param id="preset_level" value="-0.5"/>
+  <Param id="string_brightness" value="-0.20148"/>
+</HamarPreset>

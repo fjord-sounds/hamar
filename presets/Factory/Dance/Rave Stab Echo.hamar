@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Rave Stab Echo" category="Dance" author="Fjord" tags="Bright,Pop">
+  <Param id="fx_delay_damp" value="0.49119"/>
+  <Param id="fx_delay_feedback" value="0.40847"/>
+  <Param id="fx_delay_lowcut" value="202.9"/>
+  <Param id="fx_delay_mix" value="0.17619"/>
+  <Param id="fx_delay_mode" value="1"/>
+  <Param id="fx_delay_note" value="7"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.51243"/>
+  <Param id="fx_reverb_decay" value="1.3886"/>
+  <Param id="fx_reverb_lowcut" value="123.14"/>
+  <Param id="fx_reverb_mix" value="0.1404"/>
+  <Param id="fx_reverb_mod" value="0.25601"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020071"/>
+  <Param id="fx_reverb_size" value="0.45734"/>
+  <Param id="fx_reverb_width" value="1.0071"/>
+  <Param id="model" value="26"/>
+  <Param id="preset_level" value="0.6"/>
+</HamarPreset>

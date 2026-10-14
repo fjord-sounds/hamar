@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Wide Stereo Grand" category="Grand" author="Fjord" tags="Concert,Warm">
+  <Param id="fx_reverb_damp" value="0.51036"/>
+  <Param id="fx_reverb_decay" value="2.2501"/>
+  <Param id="fx_reverb_lowcut" value="120.2"/>
+  <Param id="fx_reverb_mix" value="0.18465"/>
+  <Param id="fx_reverb_mod" value="0.24861"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019718"/>
+  <Param id="fx_reverb_size" value="0.58848"/>
+  <Param id="fx_reverb_width" value="1.0016"/>
+  <Param id="mic_a_width" value="1"/>
+  <Param id="mic_b_level" value="-3.0112"/>
+  <Param id="mic_b_width" value="0.99183"/>
+  <Param id="model" value="3"/>
+  <Param id="preset_level" value="-2.5"/>
+</HamarPreset>

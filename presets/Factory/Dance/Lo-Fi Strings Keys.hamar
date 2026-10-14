@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Lo-Fi Strings Keys" category="Dance" author="Fjord" tags="Lo-Fi,Warm">
+  <Param id="fx_reverb_damp" value="0.49632"/>
+  <Param id="fx_reverb_decay" value="1.7495"/>
+  <Param id="fx_reverb_lowcut" value="123.5"/>
+  <Param id="fx_reverb_mix" value="0.17993"/>
+  <Param id="fx_reverb_mod" value="0.25198"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019901"/>
+  <Param id="fx_reverb_size" value="0.48637"/>
+  <Param id="fx_reverb_width" value="1.0066"/>
+  <Param id="layer_level" value="0.29721"/>
+  <Param id="layer_type" value="1"/>
+  <Param id="model" value="29"/>
+  <Param id="preset_level" value="3.6"/>
+</HamarPreset>

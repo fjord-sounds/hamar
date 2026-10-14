@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Glass and Strings" category="Fantasy" author="Fjord" tags="Soft,Warm">
+  <Param id="fx_reverb_damp" value="0.49218"/>
+  <Param id="fx_reverb_decay" value="2.7246"/>
+  <Param id="fx_reverb_lowcut" value="116.97"/>
+  <Param id="fx_reverb_mix" value="0.26479"/>
+  <Param id="fx_reverb_mod" value="0.2541"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019886"/>
+  <Param id="fx_reverb_size" value="0.64144"/>
+  <Param id="fx_reverb_width" value="0.98664"/>
+  <Param id="layer_level" value="0.34082"/>
+  <Param id="layer_type" value="1"/>
+  <Param id="model" value="30"/>
+  <Param id="preset_level" value="-11.1"/>
+</HamarPreset>

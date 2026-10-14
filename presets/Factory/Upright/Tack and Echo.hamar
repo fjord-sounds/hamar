@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Tack and Echo" category="Upright" author="Fjord" tags="Vintage,Bright">
+  <Param id="fx_delay_damp" value="0.49557"/>
+  <Param id="fx_delay_feedback" value="0.30158"/>
+  <Param id="fx_delay_lowcut" value="196.6"/>
+  <Param id="fx_delay_mix" value="0.1403"/>
+  <Param id="fx_delay_mode" value="1"/>
+  <Param id="fx_delay_note" value="7"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.49713"/>
+  <Param id="fx_reverb_decay" value="0.98483"/>
+  <Param id="fx_reverb_lowcut" value="119.32"/>
+  <Param id="fx_reverb_mix" value="0.118"/>
+  <Param id="fx_reverb_mod" value="0.25661"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020071"/>
+  <Param id="fx_reverb_size" value="0.40888"/>
+  <Param id="fx_reverb_width" value="0.98893"/>
+  <Param id="model" value="13"/>
+  <Param id="preset_level" value="2.8"/>
+</HamarPreset>

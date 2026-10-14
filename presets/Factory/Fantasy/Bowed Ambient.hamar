@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Bowed Ambient" category="Fantasy" author="Fjord" tags="Soft">
+  <Param id="fan_bow_speed" value="0.59542"/>
+  <Param id="fx_delay_damp" value="0.50268"/>
+  <Param id="fx_delay_feedback" value="0.43795"/>
+  <Param id="fx_delay_lowcut" value="205.55"/>
+  <Param id="fx_delay_mix" value="0.1384"/>
+  <Param id="fx_delay_mode" value="3"/>
+  <Param id="fx_delay_note" value="9"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.5008"/>
+  <Param id="fx_reverb_decay" value="6.0086"/>
+  <Param id="fx_reverb_lowcut" value="119.12"/>
+  <Param id="fx_reverb_mix" value="0.40264"/>
+  <Param id="fx_reverb_mod" value="0.24342"/>
+  <Param id="fx_reverb_mode" value="4"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020341"/>
+  <Param id="fx_reverb_size" value="0.84979"/>
+  <Param id="fx_reverb_width" value="1.0229"/>
+  <Param id="model" value="35"/>
+  <Param id="preset_level" value="-1"/>
+</HamarPreset>

@@ -1,0 +1,13 @@
+name: CI
+
+# Builds Hamar and runs the offline render test on macOS, Windows and Linux (shared workflow from fjord-base).
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  ci:
+    uses: fjord-sounds/fjord-base/.github/workflows/plugin-ci.yml@main
+    with:
+      target: Hamar

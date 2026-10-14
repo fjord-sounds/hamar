@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Warm Upright Pad" category="Upright" author="Fjord" tags="Felt,Warm">
+  <Param id="fx_reverb_damp" value="0.507"/>
+  <Param id="fx_reverb_decay" value="1.7902"/>
+  <Param id="fx_reverb_lowcut" value="118.88"/>
+  <Param id="fx_reverb_mix" value="0.19618"/>
+  <Param id="fx_reverb_mod" value="0.2451"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020281"/>
+  <Param id="fx_reverb_size" value="0.49852"/>
+  <Param id="fx_reverb_width" value="0.98635"/>
+  <Param id="layer_attack" value="0.69803"/>
+  <Param id="layer_level" value="0.3415"/>
+  <Param id="layer_type" value="0"/>
+  <Param id="model" value="11"/>
+  <Param id="preset_level" value="4.1"/>
+</HamarPreset>

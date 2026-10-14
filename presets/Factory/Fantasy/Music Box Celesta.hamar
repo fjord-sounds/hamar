@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Music Box Celesta" category="Fantasy" author="Fjord" tags="Soft,Intimate">
+  <Param id="fx_delay_damp" value="0.51371"/>
+  <Param id="fx_delay_feedback" value="0.30728"/>
+  <Param id="fx_delay_lowcut" value="201"/>
+  <Param id="fx_delay_mix" value="0.14012"/>
+  <Param id="fx_delay_mode" value="1"/>
+  <Param id="fx_delay_note" value="9"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.48787"/>
+  <Param id="fx_reverb_decay" value="2.6284"/>
+  <Param id="fx_reverb_lowcut" value="118.2"/>
+  <Param id="fx_reverb_mix" value="0.26216"/>
+  <Param id="fx_reverb_mod" value="0.25055"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.0201"/>
+  <Param id="fx_reverb_size" value="0.59871"/>
+  <Param id="fx_reverb_width" value="0.99368"/>
+  <Param id="model" value="34"/>
+  <Param id="preset_level" value="-14.5"/>
+</HamarPreset>

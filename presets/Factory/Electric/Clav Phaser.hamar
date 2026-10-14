@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Clav Phaser" category="Electric" author="Fjord" tags="Vintage,Pop">
+  <Param id="fx_motion_depth" value="0.59735"/>
+  <Param id="fx_motion_feedback" value="0.40212"/>
+  <Param id="fx_motion_mix" value="0.4881"/>
+  <Param id="fx_motion_mode" value="2"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.50843"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="model" value="19"/>
+  <Param id="preset_level" value="12"/>
+</HamarPreset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Neo Soul Tine" category="Electric" author="Fjord" tags="Warm,Pop">
+  <Param id="ep_bell" value="0.4007"/>
+  <Param id="fx_compressor_attack" value="15.07"/>
+  <Param id="fx_compressor_knee" value="7.7775"/>
+  <Param id="fx_compressor_makeup" value="2.515"/>
+  <Param id="fx_compressor_mix" value="0.97492"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.4509"/>
+  <Param id="fx_compressor_release" value="160.53"/>
+  <Param id="fx_compressor_thresh" value="-21.891"/>
+  <Param id="fx_motion_depth" value="0.34006"/>
+  <Param id="fx_motion_feedback" value="0.14915"/>
+  <Param id="fx_motion_mix" value="0.2947"/>
+  <Param id="fx_motion_mode" value="0"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.50087"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.51277"/>
+  <Param id="fx_reverb_decay" value="1.5294"/>
+  <Param id="fx_reverb_lowcut" value="122.64"/>
+  <Param id="fx_reverb_mix" value="0.13958"/>
+  <Param id="fx_reverb_mod" value="0.25383"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019609"/>
+  <Param id="fx_reverb_size" value="0.44791"/>
+  <Param id="fx_reverb_width" value="1.014"/>
+  <Param id="model" value="14"/>
+  <Param id="preset_level" value="8.1"/>
+</HamarPreset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Harpsichord and Strings" category="Historic" author="Fjord" tags="Concert,Warm">
+  <Param id="fx_reverb_damp" value="0.48908"/>
+  <Param id="fx_reverb_decay" value="2.4256"/>
+  <Param id="fx_reverb_lowcut" value="123"/>
+  <Param id="fx_reverb_mix" value="0.22358"/>
+  <Param id="fx_reverb_mod" value="0.25521"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020016"/>
+  <Param id="fx_reverb_size" value="0.63377"/>
+  <Param id="fx_reverb_width" value="0.98384"/>
+  <Param id="hist_register" value="1"/>
+  <Param id="layer_attack" value="0.41041"/>
+  <Param id="layer_level" value="0.34304"/>
+  <Param id="layer_type" value="1"/>
+  <Param id="model" value="23"/>
+  <Param id="preset_level" value="3.3"/>
+</HamarPreset>

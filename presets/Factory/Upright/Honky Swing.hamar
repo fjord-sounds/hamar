@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Honky Swing" category="Upright" author="Fjord" tags="Vintage">
+  <Param id="fx_compressor_attack" value="15.074"/>
+  <Param id="fx_compressor_knee" value="7.791"/>
+  <Param id="fx_compressor_makeup" value="1.9711"/>
+  <Param id="fx_compressor_mix" value="0.98342"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="1.9515"/>
+  <Param id="fx_compressor_release" value="153.86"/>
+  <Param id="fx_compressor_thresh" value="-22.087"/>
+  <Param id="fx_reverb_damp" value="0.49044"/>
+  <Param id="fx_reverb_decay" value="1.2159"/>
+  <Param id="fx_reverb_lowcut" value="123.08"/>
+  <Param id="fx_reverb_mix" value="0.15662"/>
+  <Param id="fx_reverb_mod" value="0.25262"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020349"/>
+  <Param id="fx_reverb_size" value="0.49827"/>
+  <Param id="fx_reverb_width" value="1.0098"/>
+  <Param id="model" value="12"/>
+  <Param id="preset_level" value="6.3"/>
+</HamarPreset>

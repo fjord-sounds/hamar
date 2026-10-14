@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Dub Piano Chords" category="Dance" author="Fjord" tags="Warm,Dark">
+  <Param id="dance_stab" value="0.50673"/>
+  <Param id="fx_delay_damp" value="0.51404"/>
+  <Param id="fx_delay_feedback" value="0.51297"/>
+  <Param id="fx_delay_lowcut" value="199.16"/>
+  <Param id="fx_delay_mix" value="0.24634"/>
+  <Param id="fx_delay_mode" value="1"/>
+  <Param id="fx_delay_note" value="9"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.50231"/>
+  <Param id="fx_reverb_decay" value="1.8411"/>
+  <Param id="fx_reverb_lowcut" value="120.3"/>
+  <Param id="fx_reverb_mix" value="0.1804"/>
+  <Param id="fx_reverb_mod" value="0.25729"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019766"/>
+  <Param id="fx_reverb_size" value="0.50233"/>
+  <Param id="fx_reverb_width" value="1.0264"/>
+  <Param id="model" value="27"/>
+  <Param id="preset_level" value="2.6"/>
+</HamarPreset>

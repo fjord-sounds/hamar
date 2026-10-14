@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Ice Crystal" category="Fantasy" author="Fjord" tags="Bright">
+  <Param id="fx_reverb_damp" value="0.50598"/>
+  <Param id="fx_reverb_decay" value="2.6548"/>
+  <Param id="fx_reverb_lowcut" value="122.05"/>
+  <Param id="fx_reverb_mix" value="0.24633"/>
+  <Param id="fx_reverb_mod" value="0.24791"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020594"/>
+  <Param id="fx_reverb_size" value="0.6545"/>
+  <Param id="fx_reverb_width" value="0.97219"/>
+  <Param id="model" value="31"/>
+  <Param id="preset_level" value="-1.4"/>
+</HamarPreset>

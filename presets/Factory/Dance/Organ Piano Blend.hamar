@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Organ Piano Blend" category="Dance" author="Fjord" tags="Warm,Vintage">
+  <Param id="dance_organ" value="0.34518"/>
+  <Param id="dance_organ_tone" value="0.7104"/>
+  <Param id="fx_reverb_damp" value="0.50523"/>
+  <Param id="fx_reverb_decay" value="1.4963"/>
+  <Param id="fx_reverb_lowcut" value="116.47"/>
+  <Param id="fx_reverb_mix" value="0.15945"/>
+  <Param id="fx_reverb_mod" value="0.24801"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019593"/>
+  <Param id="fx_reverb_size" value="0.43779"/>
+  <Param id="fx_reverb_width" value="1.0095"/>
+  <Param id="model" value="25"/>
+  <Param id="preset_level" value="3.5"/>
+</HamarPreset>

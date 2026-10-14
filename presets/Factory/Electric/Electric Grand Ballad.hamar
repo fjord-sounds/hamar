@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Electric Grand Ballad" category="Electric" author="Fjord" tags="Pop,Warm">
+  <Param id="fx_motion_depth" value="0.30255"/>
+  <Param id="fx_motion_feedback" value="0.14926"/>
+  <Param id="fx_motion_mix" value="0.25301"/>
+  <Param id="fx_motion_mode" value="1"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.29982"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.50015"/>
+  <Param id="fx_reverb_decay" value="2.356"/>
+  <Param id="fx_reverb_lowcut" value="119.85"/>
+  <Param id="fx_reverb_mix" value="0.21626"/>
+  <Param id="fx_reverb_mod" value="0.25136"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.01948"/>
+  <Param id="fx_reverb_size" value="0.61426"/>
+  <Param id="fx_reverb_width" value="0.97362"/>
+  <Param id="hammer_hardness" value="-0.20221"/>
+  <Param id="model" value="17"/>
+  <Param id="preset_level" value="12"/>
+</HamarPreset>

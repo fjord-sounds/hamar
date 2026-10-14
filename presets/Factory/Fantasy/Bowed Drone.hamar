@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Bowed Drone" category="Fantasy" author="Fjord" tags="Dark">
+  <Param id="fan_bow_pressure" value="0.70296"/>
+  <Param id="fan_bow_speed" value="0.34118"/>
+  <Param id="fx_reverb_damp" value="0.49746"/>
+  <Param id="fx_reverb_decay" value="5.6553"/>
+  <Param id="fx_reverb_lowcut" value="121.32"/>
+  <Param id="fx_reverb_mix" value="0.35565"/>
+  <Param id="fx_reverb_mod" value="0.25365"/>
+  <Param id="fx_reverb_mode" value="4"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019498"/>
+  <Param id="fx_reverb_size" value="0.8612"/>
+  <Param id="fx_reverb_width" value="1.0006"/>
+  <Param id="model" value="35"/>
+  <Param id="preset_level" value="-1.6"/>
+</HamarPreset>

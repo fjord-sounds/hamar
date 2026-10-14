@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Fortepiano Hall" category="Historic" author="Fjord" tags="Concert,Vintage">
+  <Param id="fx_reverb_damp" value="0.50775"/>
+  <Param id="fx_reverb_decay" value="2.9451"/>
+  <Param id="fx_reverb_lowcut" value="121.74"/>
+  <Param id="fx_reverb_mix" value="0.2814"/>
+  <Param id="fx_reverb_mod" value="0.25678"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.039872"/>
+  <Param id="fx_reverb_size" value="0.81825"/>
+  <Param id="fx_reverb_width" value="0.98338"/>
+  <Param id="model" value="21"/>
+  <Param id="preset_level" value="3.6"/>
+</HamarPreset>

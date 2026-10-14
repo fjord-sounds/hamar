@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Piano House Sevenths" category="Dance" author="Fjord" tags="Pop,Warm">
+  <Param id="fx_compressor_attack" value="1.4618"/>
+  <Param id="fx_compressor_knee" value="7.9304"/>
+  <Param id="fx_compressor_makeup" value="2.5119"/>
+  <Param id="fx_compressor_mix" value="0.98865"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.9692"/>
+  <Param id="fx_compressor_release" value="137.07"/>
+  <Param id="fx_compressor_thresh" value="-23.783"/>
+  <Param id="fx_reverb_damp" value="0.50005"/>
+  <Param id="fx_reverb_decay" value="1.4372"/>
+  <Param id="fx_reverb_lowcut" value="121.76"/>
+  <Param id="fx_reverb_mix" value="0.13632"/>
+  <Param id="fx_reverb_mod" value="0.25662"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020233"/>
+  <Param id="fx_reverb_size" value="0.43961"/>
+  <Param id="fx_reverb_width" value="0.97407"/>
+  <Param id="model" value="25"/>
+  <Param id="preset_level" value="3.9"/>
+  <Param id="tools_chord" value="6"/>
+</HamarPreset>

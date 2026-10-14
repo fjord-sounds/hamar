@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Deep House Keys" category="Dance" author="Fjord" tags="Warm,Soft">
+  <Param id="fx_motion_depth" value="0.29754"/>
+  <Param id="fx_motion_feedback" value="0.14781"/>
+  <Param id="fx_motion_mix" value="0.25426"/>
+  <Param id="fx_motion_mode" value="0"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.3966"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.5019"/>
+  <Param id="fx_reverb_decay" value="1.5529"/>
+  <Param id="fx_reverb_lowcut" value="123.25"/>
+  <Param id="fx_reverb_mix" value="0.15921"/>
+  <Param id="fx_reverb_mod" value="0.25304"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019523"/>
+  <Param id="fx_reverb_size" value="0.49511"/>
+  <Param id="fx_reverb_width" value="1.0014"/>
+  <Param id="model" value="27"/>
+  <Param id="preset_level" value="1.7"/>
+</HamarPreset>

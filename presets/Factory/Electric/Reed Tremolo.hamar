@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Reed Tremolo" category="Electric" author="Fjord" tags="Vintage">
+  <Param id="ep_trem_depth" value="0.4571"/>
+  <Param id="ep_trem_mode" value="1"/>
+  <Param id="ep_trem_rate" value="5.5481"/>
+  <Param id="fx_reverb_damp" value="0.4887"/>
+  <Param id="fx_reverb_decay" value="0.97602"/>
+  <Param id="fx_reverb_lowcut" value="120.47"/>
+  <Param id="fx_reverb_mix" value="0.12094"/>
+  <Param id="fx_reverb_mod" value="0.25156"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019626"/>
+  <Param id="fx_reverb_size" value="0.40884"/>
+  <Param id="fx_reverb_width" value="1.0191"/>
+  <Param id="model" value="16"/>
+  <Param id="preset_level" value="3.6"/>
+</HamarPreset>

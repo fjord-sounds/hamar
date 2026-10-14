@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Tape Chord Loop" category="Dance" author="Fjord" tags="Lo-Fi,Warm">
+  <Param id="fx_reverb_damp" value="0.51224"/>
+  <Param id="fx_reverb_decay" value="1.1731"/>
+  <Param id="fx_reverb_lowcut" value="122.13"/>
+  <Param id="fx_reverb_mix" value="0.15733"/>
+  <Param id="fx_reverb_mod" value="0.24953"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.0198"/>
+  <Param id="fx_reverb_size" value="0.45637"/>
+  <Param id="fx_reverb_width" value="1.0054"/>
+  <Param id="model" value="29"/>
+  <Param id="preset_level" value="2.3"/>
+  <Param id="tools_chord" value="5"/>
+  <Param id="tools_strum" value="0.02"/>
+</HamarPreset>

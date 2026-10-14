@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Radio Ballad" category="Grand" author="Fjord" tags="Pop,Bright">
+  <Param id="fx_compressor_attack" value="14.95"/>
+  <Param id="fx_compressor_knee" value="8.2272"/>
+  <Param id="fx_compressor_makeup" value="3.0229"/>
+  <Param id="fx_compressor_mix" value="0.9854"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.545"/>
+  <Param id="fx_compressor_release" value="162.43"/>
+  <Param id="fx_compressor_thresh" value="-20.012"/>
+  <Param id="fx_eq_high_gain" value="1.5421"/>
+  <Param id="fx_eq_highcut" value="19651"/>
+  <Param id="fx_eq_low_freq" value="118.54"/>
+  <Param id="fx_eq_low_gain" value="0"/>
+  <Param id="fx_eq_lowcut" value="48.557"/>
+  <Param id="fx_eq_mid2_freq" value="3508"/>
+  <Param id="fx_eq_mid2_gain" value="2.0542"/>
+  <Param id="fx_eq_mid_freq" value="512.64"/>
+  <Param id="fx_eq_mid_gain" value="0"/>
+  <Param id="fx_eq_mid_q" value="0.91388"/>
+  <Param id="fx_eq_on" value="1"/>
+  <Param id="fx_reverb_damp" value="0.5077"/>
+  <Param id="fx_reverb_decay" value="1.5818"/>
+  <Param id="fx_reverb_lowcut" value="121.38"/>
+  <Param id="fx_reverb_mix" value="0.13695"/>
+  <Param id="fx_reverb_mod" value="0.24976"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019896"/>
+  <Param id="fx_reverb_size" value="0.4918"/>
+  <Param id="fx_reverb_width" value="1.0223"/>
+  <Param id="model" value="6"/>
+  <Param id="preset_level" value="3.7"/>
+</HamarPreset>

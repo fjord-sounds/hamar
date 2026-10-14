@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Attic Upright" category="Upright" author="Fjord" tags="Lo-Fi,Vintage,Dark">
+  <Param id="cond_detune" value="0.49272"/>
+  <Param id="cond_noise" value="0.48612"/>
+  <Param id="cond_wear" value="0.50882"/>
+  <Param id="fx_eq_high_gain" value="0"/>
+  <Param id="fx_eq_highcut" value="7161.6"/>
+  <Param id="fx_eq_low_freq" value="119.65"/>
+  <Param id="fx_eq_low_gain" value="0"/>
+  <Param id="fx_eq_lowcut" value="29.864"/>
+  <Param id="fx_eq_mid2_freq" value="3398"/>
+  <Param id="fx_eq_mid2_gain" value="0"/>
+  <Param id="fx_eq_mid_freq" value="513.38"/>
+  <Param id="fx_eq_mid_gain" value="0"/>
+  <Param id="fx_eq_mid_q" value="0.90855"/>
+  <Param id="fx_eq_on" value="1"/>
+  <Param id="fx_reverb_damp" value="0.48666"/>
+  <Param id="fx_reverb_decay" value="1.2246"/>
+  <Param id="fx_reverb_lowcut" value="118.52"/>
+  <Param id="fx_reverb_mix" value="0.1843"/>
+  <Param id="fx_reverb_mod" value="0.24459"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020461"/>
+  <Param id="fx_reverb_size" value="0.4877"/>
+  <Param id="fx_reverb_width" value="0.99091"/>
+  <Param id="model" value="10"/>
+  <Param id="preset_level" value="4"/>
+</HamarPreset>

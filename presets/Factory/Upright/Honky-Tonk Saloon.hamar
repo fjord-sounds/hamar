@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Honky-Tonk Saloon" category="Upright" author="Fjord" tags="Vintage,Bright">
+  <Param id="fx_reverb_damp" value="0.50121"/>
+  <Param id="fx_reverb_decay" value="0.98455"/>
+  <Param id="fx_reverb_lowcut" value="122.61"/>
+  <Param id="fx_reverb_mix" value="0.11957"/>
+  <Param id="fx_reverb_mod" value="0.25536"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020201"/>
+  <Param id="fx_reverb_size" value="0.44033"/>
+  <Param id="fx_reverb_width" value="1.0293"/>
+  <Param id="model" value="12"/>
+  <Param id="preset_level" value="5.2"/>
+</HamarPreset>

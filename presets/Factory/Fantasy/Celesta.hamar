@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Celesta" category="Fantasy" author="Fjord" tags="Soft,Bright">
+  <Param id="fx_reverb_damp" value="0.50768"/>
+  <Param id="fx_reverb_decay" value="1.9858"/>
+  <Param id="fx_reverb_lowcut" value="123.48"/>
+  <Param id="fx_reverb_mix" value="0.20495"/>
+  <Param id="fx_reverb_mod" value="0.24726"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019921"/>
+  <Param id="fx_reverb_size" value="0.55891"/>
+  <Param id="fx_reverb_width" value="1.0253"/>
+  <Param id="model" value="34"/>
+  <Param id="preset_level" value="-15"/>
+</HamarPreset>

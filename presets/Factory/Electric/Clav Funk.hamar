@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Clav Funk" category="Electric" author="Fjord" tags="Bright,Vintage">
+  <Param id="fx_compressor_attack" value="4.9689"/>
+  <Param id="fx_compressor_knee" value="7.8222"/>
+  <Param id="fx_compressor_makeup" value="3.0229"/>
+  <Param id="fx_compressor_mix" value="1"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="3.0286"/>
+  <Param id="fx_compressor_release" value="102.5"/>
+  <Param id="fx_compressor_thresh" value="-19.884"/>
+  <Param id="model" value="19"/>
+  <Param id="preset_level" value="11"/>
+</HamarPreset>

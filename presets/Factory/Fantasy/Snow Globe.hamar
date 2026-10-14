@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Snow Globe" category="Fantasy" author="Fjord" tags="Soft,Bright">
+  <Param id="fx_delay_damp" value="0.50303"/>
+  <Param id="fx_delay_feedback" value="0.39736"/>
+  <Param id="fx_delay_lowcut" value="202"/>
+  <Param id="fx_delay_mix" value="0.12222"/>
+  <Param id="fx_delay_mode" value="1"/>
+  <Param id="fx_delay_note" value="9"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.48557"/>
+  <Param id="fx_reverb_decay" value="4.9818"/>
+  <Param id="fx_reverb_lowcut" value="119.95"/>
+  <Param id="fx_reverb_mix" value="0.35858"/>
+  <Param id="fx_reverb_mod" value="0.2474"/>
+  <Param id="fx_reverb_mode" value="3"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019986"/>
+  <Param id="fx_reverb_shimmer" value="0.29212"/>
+  <Param id="fx_reverb_size" value="0.86023"/>
+  <Param id="fx_reverb_width" value="1.0256"/>
+  <Param id="model" value="34"/>
+  <Param id="preset_level" value="-13.6"/>
+</HamarPreset>

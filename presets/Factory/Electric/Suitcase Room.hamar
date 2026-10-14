@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Suitcase Room" category="Electric" author="Fjord" tags="Warm,Intimate">
+  <Param id="ep_drive" value="0.29583"/>
+  <Param id="fx_reverb_damp" value="0.48837"/>
+  <Param id="fx_reverb_decay" value="1.1289"/>
+  <Param id="fx_reverb_lowcut" value="117.16"/>
+  <Param id="fx_reverb_mix" value="0.16076"/>
+  <Param id="fx_reverb_mod" value="0.24611"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019881"/>
+  <Param id="fx_reverb_size" value="0.44682"/>
+  <Param id="fx_reverb_width" value="1.0243"/>
+  <Param id="model" value="15"/>
+  <Param id="preset_level" value="3.9"/>
+</HamarPreset>

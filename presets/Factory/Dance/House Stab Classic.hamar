@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="House Stab Classic" category="Dance" author="Fjord" tags="Pop,Bright">
+  <Param id="fx_reverb_damp" value="0.498"/>
+  <Param id="fx_reverb_decay" value="1.4227"/>
+  <Param id="fx_reverb_lowcut" value="122.03"/>
+  <Param id="fx_reverb_mix" value="0.14395"/>
+  <Param id="fx_reverb_mod" value="0.24392"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020344"/>
+  <Param id="fx_reverb_size" value="0.43726"/>
+  <Param id="fx_reverb_width" value="1.025"/>
+  <Param id="model" value="25"/>
+  <Param id="preset_level" value="5.7"/>
+</HamarPreset>

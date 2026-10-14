@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Old School Upright" category="Upright" author="Fjord" tags="Vintage,Lo-Fi">
+  <Param id="cond_detune" value="0.34894"/>
+  <Param id="cond_noise" value="0.40973"/>
+  <Param id="cond_wear" value="0.40107"/>
+  <Param id="fx_reverb_damp" value="0.49996"/>
+  <Param id="fx_reverb_decay" value="0.91117"/>
+  <Param id="fx_reverb_lowcut" value="119.96"/>
+  <Param id="fx_reverb_mix" value="0.11699"/>
+  <Param id="fx_reverb_mod" value="0.24926"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020546"/>
+  <Param id="fx_reverb_size" value="0.3456"/>
+  <Param id="fx_reverb_width" value="1.0079"/>
+  <Param id="model" value="9"/>
+  <Param id="preset_level" value="3.7"/>
+</HamarPreset>

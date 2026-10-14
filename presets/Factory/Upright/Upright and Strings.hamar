@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Upright and Strings" category="Upright" author="Fjord" tags="Warm,Pop">
+  <Param id="fx_reverb_damp" value="0.5039"/>
+  <Param id="fx_reverb_decay" value="2.0551"/>
+  <Param id="fx_reverb_lowcut" value="118.92"/>
+  <Param id="fx_reverb_mix" value="0.18042"/>
+  <Param id="fx_reverb_mod" value="0.24589"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019408"/>
+  <Param id="fx_reverb_size" value="0.5398"/>
+  <Param id="fx_reverb_width" value="0.979"/>
+  <Param id="layer_attack" value="0.51218"/>
+  <Param id="layer_level" value="0.34128"/>
+  <Param id="layer_type" value="1"/>
+  <Param id="model" value="8"/>
+  <Param id="preset_level" value="3.3"/>
+</HamarPreset>

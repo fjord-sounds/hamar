@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Deep Minor Chords" category="Dance" author="Fjord" tags="Dark,Warm">
+  <Param id="fx_motion_depth" value="0.30612"/>
+  <Param id="fx_motion_feedback" value="0.14964"/>
+  <Param id="fx_motion_mix" value="0.25422"/>
+  <Param id="fx_motion_mode" value="0"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.34665"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.51"/>
+  <Param id="fx_reverb_decay" value="1.7816"/>
+  <Param id="fx_reverb_lowcut" value="117.14"/>
+  <Param id="fx_reverb_mix" value="0.17488"/>
+  <Param id="fx_reverb_mod" value="0.24566"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.02007"/>
+  <Param id="fx_reverb_size" value="0.50789"/>
+  <Param id="fx_reverb_width" value="0.98773"/>
+  <Param id="model" value="27"/>
+  <Param id="preset_level" value="0.6"/>
+  <Param id="tools_chord" value="6"/>
+</HamarPreset>

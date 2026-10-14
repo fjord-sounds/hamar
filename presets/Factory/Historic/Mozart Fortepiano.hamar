@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Mozart Fortepiano" category="Historic" author="Fjord" tags="Vintage,Concert">
+  <Param id="fx_reverb_damp" value="0.49905"/>
+  <Param id="fx_reverb_decay" value="1.8723"/>
+  <Param id="fx_reverb_lowcut" value="119.2"/>
+  <Param id="fx_reverb_mix" value="0.19572"/>
+  <Param id="fx_reverb_mod" value="0.25475"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019898"/>
+  <Param id="fx_reverb_size" value="0.53888"/>
+  <Param id="fx_reverb_width" value="0.98962"/>
+  <Param id="model" value="20"/>
+  <Param id="preset_level" value="4"/>
+</HamarPreset>

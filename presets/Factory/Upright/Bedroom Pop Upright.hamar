@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Bedroom Pop Upright" category="Upright" author="Fjord" tags="Pop,Intimate">
+  <Param id="fx_compressor_attack" value="15.311"/>
+  <Param id="fx_compressor_knee" value="8.2002"/>
+  <Param id="fx_compressor_makeup" value="3.0648"/>
+  <Param id="fx_compressor_mix" value="1"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.5387"/>
+  <Param id="fx_compressor_release" value="158.64"/>
+  <Param id="fx_compressor_thresh" value="-22.328"/>
+  <Param id="fx_motion_depth" value="0.19611"/>
+  <Param id="fx_motion_feedback" value="0.15109"/>
+  <Param id="fx_motion_mix" value="0.14696"/>
+  <Param id="fx_motion_mode" value="0"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.30475"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.49884"/>
+  <Param id="fx_reverb_decay" value="1.2836"/>
+  <Param id="fx_reverb_lowcut" value="117.16"/>
+  <Param id="fx_reverb_mix" value="0.14166"/>
+  <Param id="fx_reverb_mod" value="0.25077"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019424"/>
+  <Param id="fx_reverb_size" value="0.40138"/>
+  <Param id="fx_reverb_width" value="0.99144"/>
+  <Param id="model" value="8"/>
+  <Param id="preset_level" value="5.6"/>
+</HamarPreset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Lid Down Late Night" category="Grand" author="Fjord" tags="Dark,Warm,Soft">
+  <Param id="fx_reverb_damp" value="0.50713"/>
+  <Param id="fx_reverb_decay" value="1.3219"/>
+  <Param id="fx_reverb_lowcut" value="123.08"/>
+  <Param id="fx_reverb_mix" value="0.20548"/>
+  <Param id="fx_reverb_mod" value="0.25262"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019473"/>
+  <Param id="fx_reverb_size" value="0.46026"/>
+  <Param id="fx_reverb_width" value="1.019"/>
+  <Param id="grand_lid" value="2"/>
+  <Param id="hammer_hardness" value="-0.20296"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="6.5"/>
+</HamarPreset>

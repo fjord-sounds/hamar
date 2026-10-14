@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Jazz Club Grand" category="Grand" author="Fjord" tags="Warm,Intimate">
+  <Param id="fx_reverb_damp" value="0.49556"/>
+  <Param id="fx_reverb_decay" value="0.89539"/>
+  <Param id="fx_reverb_lowcut" value="122.98"/>
+  <Param id="fx_reverb_mix" value="0.12069"/>
+  <Param id="fx_reverb_mod" value="0.25016"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019815"/>
+  <Param id="fx_reverb_size" value="0.45573"/>
+  <Param id="fx_reverb_width" value="1.0295"/>
+  <Param id="mic_b_level" value="-1.9661"/>
+  <Param id="mic_b_x" value="0.3053"/>
+  <Param id="mic_b_y" value="0.30188"/>
+  <Param id="model" value="3"/>
+  <Param id="preset_level" value="-3.1"/>
+</HamarPreset>

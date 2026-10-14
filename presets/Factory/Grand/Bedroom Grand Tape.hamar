@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Bedroom Grand Tape" category="Grand" author="Fjord" tags="Lo-Fi,Intimate">
+  <Param id="fx_eq_high_gain" value="0"/>
+  <Param id="fx_eq_highcut" value="7284.4"/>
+  <Param id="fx_eq_low_freq" value="122.43"/>
+  <Param id="fx_eq_low_gain" value="0"/>
+  <Param id="fx_eq_lowcut" value="60.536"/>
+  <Param id="fx_eq_mid2_freq" value="3516.2"/>
+  <Param id="fx_eq_mid2_gain" value="0"/>
+  <Param id="fx_eq_mid_freq" value="488.22"/>
+  <Param id="fx_eq_mid_gain" value="0"/>
+  <Param id="fx_eq_mid_q" value="0.92202"/>
+  <Param id="fx_eq_on" value="1"/>
+  <Param id="fx_lofi_age" value="0.44854"/>
+  <Param id="fx_lofi_flutter" value="0.25312"/>
+  <Param id="fx_lofi_mix" value="0.9726"/>
+  <Param id="fx_lofi_noise" value="0.079375"/>
+  <Param id="fx_lofi_on" value="1"/>
+  <Param id="fx_lofi_wow" value="0.35326"/>
+  <Param id="fx_reverb_damp" value="0.48569"/>
+  <Param id="fx_reverb_decay" value="1.0019"/>
+  <Param id="fx_reverb_lowcut" value="122.09"/>
+  <Param id="fx_reverb_mix" value="0.16152"/>
+  <Param id="fx_reverb_mod" value="0.24933"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020205"/>
+  <Param id="fx_reverb_size" value="0.40382"/>
+  <Param id="fx_reverb_width" value="1.0248"/>
+  <Param id="model" value="5"/>
+  <Param id="preset_level" value="4.6"/>
+</HamarPreset>

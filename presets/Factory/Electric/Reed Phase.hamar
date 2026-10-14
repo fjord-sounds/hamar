@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Reed Phase" category="Electric" author="Fjord" tags="Vintage,Pop">
+  <Param id="fx_motion_depth" value="0.49477"/>
+  <Param id="fx_motion_feedback" value="0.3037"/>
+  <Param id="fx_motion_mix" value="0.45275"/>
+  <Param id="fx_motion_mode" value="2"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.24335"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.48515"/>
+  <Param id="fx_reverb_decay" value="0.98239"/>
+  <Param id="fx_reverb_lowcut" value="121.02"/>
+  <Param id="fx_reverb_mix" value="0.12144"/>
+  <Param id="fx_reverb_mod" value="0.24546"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020265"/>
+  <Param id="fx_reverb_size" value="0.40416"/>
+  <Param id="fx_reverb_width" value="0.99272"/>
+  <Param id="model" value="16"/>
+  <Param id="preset_level" value="3.5"/>
+</HamarPreset>

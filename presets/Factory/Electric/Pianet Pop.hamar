@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Pianet Pop" category="Electric" author="Fjord" tags="Pop,Vintage">
+  <Param id="fx_reverb_damp" value="0.48917"/>
+  <Param id="fx_reverb_decay" value="1.0175"/>
+  <Param id="fx_reverb_lowcut" value="118.15"/>
+  <Param id="fx_reverb_mix" value="0.11937"/>
+  <Param id="fx_reverb_mod" value="0.25649"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019745"/>
+  <Param id="fx_reverb_size" value="0.39747"/>
+  <Param id="fx_reverb_width" value="0.98185"/>
+  <Param id="model" value="18"/>
+  <Param id="preset_level" value="6.5"/>
+</HamarPreset>

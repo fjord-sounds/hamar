@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Glass Piano" category="Fantasy" author="Fjord" tags="Bright,Soft">
+  <Param id="fx_reverb_damp" value="0.48857"/>
+  <Param id="fx_reverb_decay" value="2.3873"/>
+  <Param id="fx_reverb_lowcut" value="116.56"/>
+  <Param id="fx_reverb_mix" value="0.21825"/>
+  <Param id="fx_reverb_mod" value="0.25724"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019554"/>
+  <Param id="fx_reverb_size" value="0.59159"/>
+  <Param id="fx_reverb_width" value="1.0124"/>
+  <Param id="model" value="30"/>
+  <Param id="preset_level" value="-11.7"/>
+</HamarPreset>

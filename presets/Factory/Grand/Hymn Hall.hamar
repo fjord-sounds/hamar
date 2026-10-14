@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Hymn Hall" category="Grand" author="Fjord" tags="Concert,Warm">
+  <Param id="fx_reverb_damp" value="0.50165"/>
+  <Param id="fx_reverb_decay" value="4.2991"/>
+  <Param id="fx_reverb_lowcut" value="119.63"/>
+  <Param id="fx_reverb_mix" value="0.33935"/>
+  <Param id="fx_reverb_mod" value="0.24487"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.061356"/>
+  <Param id="fx_reverb_size" value="0.9967"/>
+  <Param id="fx_reverb_width" value="1.0296"/>
+  <Param id="mic_b_level" value="0"/>
+  <Param id="model" value="1"/>
+  <Param id="preset_level" value="-1.6"/>
+</HamarPreset>

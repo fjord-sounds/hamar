@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Prepared Rattle" category="Fantasy" author="Fjord" tags="Vintage">
+  <Param id="fan_prep" value="0.49824"/>
+  <Param id="fx_reverb_damp" value="0.50415"/>
+  <Param id="fx_reverb_decay" value="1.2147"/>
+  <Param id="fx_reverb_lowcut" value="122.49"/>
+  <Param id="fx_reverb_mix" value="0.15904"/>
+  <Param id="fx_reverb_mod" value="0.24643"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020304"/>
+  <Param id="fx_reverb_size" value="0.44533"/>
+  <Param id="fx_reverb_width" value="1.0211"/>
+  <Param id="model" value="32"/>
+  <Param id="preset_level" value="-6.2"/>
+</HamarPreset>

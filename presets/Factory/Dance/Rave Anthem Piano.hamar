@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Rave Anthem Piano" category="Dance" author="Fjord" tags="Bright,Pop">
+  <Param id="fx_compressor_attack" value="1.4676"/>
+  <Param id="fx_compressor_knee" value="8.1108"/>
+  <Param id="fx_compressor_makeup" value="2.9991"/>
+  <Param id="fx_compressor_mix" value="0.99107"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="3.5224"/>
+  <Param id="fx_compressor_release" value="119.8"/>
+  <Param id="fx_compressor_thresh" value="-22.342"/>
+  <Param id="fx_reverb_damp" value="0.50569"/>
+  <Param id="fx_reverb_decay" value="2.2161"/>
+  <Param id="fx_reverb_lowcut" value="122.84"/>
+  <Param id="fx_reverb_mix" value="0.19651"/>
+  <Param id="fx_reverb_mod" value="0.24375"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019435"/>
+  <Param id="fx_reverb_size" value="0.58435"/>
+  <Param id="fx_reverb_width" value="1.014"/>
+  <Param id="model" value="26"/>
+  <Param id="preset_level" value="7.3"/>
+</HamarPreset>

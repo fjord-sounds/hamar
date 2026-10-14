@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Parlour Letters" category="Grand" author="Fjord" tags="Intimate,Vintage">
+  <Param id="fx_reverb_damp" value="0.50276"/>
+  <Param id="fx_reverb_decay" value="1.015"/>
+  <Param id="fx_reverb_lowcut" value="119.6"/>
+  <Param id="fx_reverb_mix" value="0.15201"/>
+  <Param id="fx_reverb_mod" value="0.25009"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020181"/>
+  <Param id="fx_reverb_size" value="0.40521"/>
+  <Param id="fx_reverb_width" value="1.0129"/>
+  <Param id="mic_b_level" value="-2.0282"/>
+  <Param id="model" value="4"/>
+  <Param id="preset_level" value="-2.6"/>
+</HamarPreset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Late Night Deep" category="Dance" author="Fjord" tags="Dark,Soft">
+  <Param id="fx_eq_high_gain" value="0"/>
+  <Param id="fx_eq_highcut" value="7944"/>
+  <Param id="fx_eq_low_freq" value="119.86"/>
+  <Param id="fx_eq_low_gain" value="0"/>
+  <Param id="fx_eq_lowcut" value="30.501"/>
+  <Param id="fx_eq_mid2_freq" value="3446.6"/>
+  <Param id="fx_eq_mid2_gain" value="0"/>
+  <Param id="fx_eq_mid_freq" value="501.03"/>
+  <Param id="fx_eq_mid_gain" value="0"/>
+  <Param id="fx_eq_mid_q" value="0.92406"/>
+  <Param id="fx_eq_on" value="1"/>
+  <Param id="fx_reverb_damp" value="0.48717"/>
+  <Param id="fx_reverb_decay" value="2.8655"/>
+  <Param id="fx_reverb_lowcut" value="118.54"/>
+  <Param id="fx_reverb_mix" value="0.24335"/>
+  <Param id="fx_reverb_mod" value="0.24911"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.0195"/>
+  <Param id="fx_reverb_size" value="0.6618"/>
+  <Param id="fx_reverb_width" value="1.03"/>
+  <Param id="hammer_hardness" value="-0.30435"/>
+  <Param id="model" value="27"/>
+  <Param id="preset_level" value="2.3"/>
+</HamarPreset>

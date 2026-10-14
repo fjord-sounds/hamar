@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Neo Soul Grand" category="Grand" author="Fjord" tags="Warm,Pop">
+  <Param id="fx_compressor_attack" value="18.261"/>
+  <Param id="fx_compressor_knee" value="7.9588"/>
+  <Param id="fx_compressor_makeup" value="2.0365"/>
+  <Param id="fx_compressor_mix" value="0.98479"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.0374"/>
+  <Param id="fx_compressor_release" value="182.39"/>
+  <Param id="fx_compressor_thresh" value="-22.234"/>
+  <Param id="fx_motion_depth" value="0.2514"/>
+  <Param id="fx_motion_feedback" value="0.15203"/>
+  <Param id="fx_motion_mix" value="0.20085"/>
+  <Param id="fx_motion_mode" value="0"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.35909"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.49006"/>
+  <Param id="fx_reverb_decay" value="1.5176"/>
+  <Param id="fx_reverb_lowcut" value="122.5"/>
+  <Param id="fx_reverb_mix" value="0.13611"/>
+  <Param id="fx_reverb_mod" value="0.24974"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020119"/>
+  <Param id="fx_reverb_size" value="0.45866"/>
+  <Param id="fx_reverb_width" value="1.0154"/>
+  <Param id="hammer_hardness" value="-0.15281"/>
+  <Param id="model" value="3"/>
+  <Param id="preset_level" value="3"/>
+</HamarPreset>

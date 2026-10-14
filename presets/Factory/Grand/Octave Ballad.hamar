@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Octave Ballad" category="Grand" author="Fjord" tags="Pop,Bright">
+  <Param id="fx_compressor_attack" value="15.031"/>
+  <Param id="fx_compressor_knee" value="8.1307"/>
+  <Param id="fx_compressor_makeup" value="2.0456"/>
+  <Param id="fx_compressor_mix" value="0.98074"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.0036"/>
+  <Param id="fx_compressor_release" value="160.02"/>
+  <Param id="fx_compressor_thresh" value="-22.146"/>
+  <Param id="fx_reverb_damp" value="0.49533"/>
+  <Param id="fx_reverb_decay" value="2.2402"/>
+  <Param id="fx_reverb_lowcut" value="120.79"/>
+  <Param id="fx_reverb_mix" value="0.2054"/>
+  <Param id="fx_reverb_mod" value="0.25454"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020387"/>
+  <Param id="fx_reverb_size" value="0.61402"/>
+  <Param id="fx_reverb_width" value="0.989"/>
+  <Param id="model" value="6"/>
+  <Param id="preset_level" value="5.2"/>
+  <Param id="tools_chord" value="1"/>
+</HamarPreset>

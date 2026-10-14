@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="House Tine Chords" category="Electric" author="Fjord" tags="Pop,Warm">
+  <Param id="fx_compressor_attack" value="11.87"/>
+  <Param id="fx_compressor_knee" value="7.8111"/>
+  <Param id="fx_compressor_makeup" value="2.5079"/>
+  <Param id="fx_compressor_mix" value="1"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.4401"/>
+  <Param id="fx_compressor_release" value="147.4"/>
+  <Param id="fx_compressor_thresh" value="-22.28"/>
+  <Param id="fx_motion_depth" value="0.29944"/>
+  <Param id="fx_motion_feedback" value="0.14853"/>
+  <Param id="fx_motion_mix" value="0.24981"/>
+  <Param id="fx_motion_mode" value="0"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.38851"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.50063"/>
+  <Param id="fx_reverb_decay" value="1.3632"/>
+  <Param id="fx_reverb_lowcut" value="123.56"/>
+  <Param id="fx_reverb_mix" value="0.14118"/>
+  <Param id="fx_reverb_mod" value="0.24268"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019498"/>
+  <Param id="fx_reverb_size" value="0.4597"/>
+  <Param id="fx_reverb_width" value="0.97624"/>
+  <Param id="model" value="14"/>
+  <Param id="preset_level" value="9.7"/>
+  <Param id="tools_chord" value="6"/>
+</HamarPreset>

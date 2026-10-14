@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Muffled Demo Take" category="Upright" author="Fjord" tags="Felt,Lo-Fi">
+  <Param id="fx_eq_high_gain" value="0"/>
+  <Param id="fx_eq_highcut" value="6320.9"/>
+  <Param id="fx_eq_low_freq" value="119.02"/>
+  <Param id="fx_eq_low_gain" value="0"/>
+  <Param id="fx_eq_lowcut" value="29.932"/>
+  <Param id="fx_eq_mid2_freq" value="3584.9"/>
+  <Param id="fx_eq_mid2_gain" value="0"/>
+  <Param id="fx_eq_mid_freq" value="500.27"/>
+  <Param id="fx_eq_mid_gain" value="0"/>
+  <Param id="fx_eq_mid_q" value="0.89342"/>
+  <Param id="fx_eq_on" value="1"/>
+  <Param id="fx_lofi_age" value="0.40524"/>
+  <Param id="fx_lofi_flutter" value="0.20446"/>
+  <Param id="fx_lofi_mix" value="1"/>
+  <Param id="fx_lofi_noise" value="0.059923"/>
+  <Param id="fx_lofi_on" value="1"/>
+  <Param id="fx_lofi_wow" value="0.29822"/>
+  <Param id="hammer_key_noise" value="0.50096"/>
+  <Param id="model" value="11"/>
+  <Param id="preset_level" value="4.7"/>
+</HamarPreset>

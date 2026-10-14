@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Open Fifths" category="Grand" author="Fjord" tags="Concert,Dark">
+  <Param id="fx_reverb_damp" value="0.49364"/>
+  <Param id="fx_reverb_decay" value="3.4501"/>
+  <Param id="fx_reverb_lowcut" value="120.86"/>
+  <Param id="fx_reverb_mix" value="0.29509"/>
+  <Param id="fx_reverb_mod" value="0.25381"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019456"/>
+  <Param id="fx_reverb_size" value="0.863"/>
+  <Param id="fx_reverb_width" value="0.97382"/>
+  <Param id="hammer_hardness" value="-0.1943"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="0.5"/>
+  <Param id="tools_chord" value="2"/>
+</HamarPreset>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Home Upright Diary" category="Upright" author="Fjord" tags="Intimate,Vintage">
+  <Param id="fx_reverb_damp" value="0.49712"/>
+  <Param id="fx_reverb_decay" value="0.87841"/>
+  <Param id="fx_reverb_lowcut" value="119.12"/>
+  <Param id="fx_reverb_mix" value="0.14262"/>
+  <Param id="fx_reverb_mod" value="0.24554"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020304"/>
+  <Param id="fx_reverb_size" value="0.33958"/>
+  <Param id="fx_reverb_width" value="1.0003"/>
+  <Param id="mic_b_level" value="-3.9741"/>
+  <Param id="model" value="9"/>
+  <Param id="preset_level" value="3.4"/>
+</HamarPreset>

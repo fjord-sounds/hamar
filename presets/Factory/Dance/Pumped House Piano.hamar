@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Pumped House Piano" category="Dance" author="Fjord" tags="Pop,Bright">
+  <Param id="dance_punch" value="0.39041"/>
+  <Param id="fx_compressor_attack" value="4.8533"/>
+  <Param id="fx_compressor_knee" value="8.0549"/>
+  <Param id="fx_compressor_makeup" value="5.0033"/>
+  <Param id="fx_compressor_mix" value="1"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="3.9405"/>
+  <Param id="fx_compressor_release" value="91.02"/>
+  <Param id="fx_compressor_thresh" value="-26.033"/>
+  <Param id="fx_reverb_damp" value="0.50871"/>
+  <Param id="fx_reverb_decay" value="1.2331"/>
+  <Param id="fx_reverb_lowcut" value="121.98"/>
+  <Param id="fx_reverb_mix" value="0.1193"/>
+  <Param id="fx_reverb_mod" value="0.25728"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020069"/>
+  <Param id="fx_reverb_size" value="0.39665"/>
+  <Param id="fx_reverb_width" value="0.99938"/>
+  <Param id="model" value="25"/>
+  <Param id="preset_level" value="6.3"/>
+</HamarPreset>

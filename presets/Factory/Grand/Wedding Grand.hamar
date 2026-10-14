@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Wedding Grand" category="Grand" author="Fjord" tags="Concert,Warm">
+  <Param id="fx_reverb_damp" value="0.49627"/>
+  <Param id="fx_reverb_decay" value="2.8764"/>
+  <Param id="fx_reverb_lowcut" value="117.35"/>
+  <Param id="fx_reverb_mix" value="0.26108"/>
+  <Param id="fx_reverb_mod" value="0.24871"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.030553"/>
+  <Param id="fx_reverb_size" value="0.74549"/>
+  <Param id="fx_reverb_width" value="1.029"/>
+  <Param id="model" value="2"/>
+  <Param id="preset_level" value="2.1"/>
+</HamarPreset>

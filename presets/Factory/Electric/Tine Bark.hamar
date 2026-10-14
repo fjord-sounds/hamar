@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Tine Bark" category="Electric" author="Fjord" tags="Bright,Vintage">
+  <Param id="ep_drive" value="0.39775"/>
+  <Param id="ep_pickup" value="0.83796"/>
+  <Param id="fx_reverb_damp" value="0.48563"/>
+  <Param id="fx_reverb_decay" value="0.87311"/>
+  <Param id="fx_reverb_lowcut" value="118.23"/>
+  <Param id="fx_reverb_mix" value="0.098363"/>
+  <Param id="fx_reverb_mod" value="0.25258"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019614"/>
+  <Param id="fx_reverb_size" value="0.39575"/>
+  <Param id="fx_reverb_width" value="0.97569"/>
+  <Param id="model" value="14"/>
+  <Param id="preset_level" value="2.2"/>
+</HamarPreset>

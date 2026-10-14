@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Clavichord Intimate" category="Historic" author="Fjord" tags="Intimate,Soft,Vintage">
+  <Param id="fx_reverb_damp" value="0.48693"/>
+  <Param id="fx_reverb_decay" value="0.91145"/>
+  <Param id="fx_reverb_lowcut" value="121.96"/>
+  <Param id="fx_reverb_mix" value="0.13594"/>
+  <Param id="fx_reverb_mod" value="0.25183"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020337"/>
+  <Param id="fx_reverb_size" value="0.35333"/>
+  <Param id="fx_reverb_width" value="1.0081"/>
+  <Param id="model" value="24"/>
+  <Param id="preset_level" value="2.8"/>
+</HamarPreset>

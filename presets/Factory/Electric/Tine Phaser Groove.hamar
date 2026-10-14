@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Tine Phaser Groove" category="Electric" author="Fjord" tags="Vintage,Pop">
+  <Param id="fx_motion_depth" value="0.53727"/>
+  <Param id="fx_motion_feedback" value="0.34906"/>
+  <Param id="fx_motion_mix" value="0.51346"/>
+  <Param id="fx_motion_mode" value="2"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.34208"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.51415"/>
+  <Param id="fx_reverb_decay" value="0.97315"/>
+  <Param id="fx_reverb_lowcut" value="121.97"/>
+  <Param id="fx_reverb_mix" value="0.11775"/>
+  <Param id="fx_reverb_mod" value="0.24359"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020434"/>
+  <Param id="fx_reverb_size" value="0.40466"/>
+  <Param id="fx_reverb_width" value="1.0266"/>
+  <Param id="model" value="14"/>
+  <Param id="preset_level" value="8.9"/>
+</HamarPreset>

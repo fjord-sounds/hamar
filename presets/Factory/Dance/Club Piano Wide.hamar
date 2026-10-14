@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Club Piano Wide" category="Dance" author="Fjord" tags="Bright">
+  <Param id="fx_reverb_damp" value="0.50017"/>
+  <Param id="fx_reverb_decay" value="2.1601"/>
+  <Param id="fx_reverb_lowcut" value="123.25"/>
+  <Param id="fx_reverb_mix" value="0.19826"/>
+  <Param id="fx_reverb_mod" value="0.25408"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.02017"/>
+  <Param id="fx_reverb_size" value="0.58919"/>
+  <Param id="fx_reverb_width" value="0.97626"/>
+  <Param id="fx_width_amount" value="1.5353"/>
+  <Param id="fx_width_mono" value="148.42"/>
+  <Param id="fx_width_on" value="1"/>
+  <Param id="model" value="26"/>
+  <Param id="preset_level" value="-1.4"/>
+</HamarPreset>

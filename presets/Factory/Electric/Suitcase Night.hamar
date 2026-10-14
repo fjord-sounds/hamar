@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Suitcase Night" category="Electric" author="Fjord" tags="Soft,Warm">
+  <Param id="ep_pickup" value="0.25522"/>
+  <Param id="ep_trem_depth" value="0.35229"/>
+  <Param id="ep_trem_mode" value="1"/>
+  <Param id="ep_trem_rate" value="4.468"/>
+  <Param id="fx_reverb_damp" value="0.48882"/>
+  <Param id="fx_reverb_decay" value="1.7479"/>
+  <Param id="fx_reverb_lowcut" value="120.59"/>
+  <Param id="fx_reverb_mix" value="0.17681"/>
+  <Param id="fx_reverb_mod" value="0.25744"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020231"/>
+  <Param id="fx_reverb_size" value="0.51131"/>
+  <Param id="fx_reverb_width" value="0.97926"/>
+  <Param id="model" value="15"/>
+  <Param id="preset_level" value="7.2"/>
+</HamarPreset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Practice Room" category="Upright" author="Fjord" tags="Vintage,Intimate">
+  <Param id="cond_dampers" value="0.30258"/>
+  <Param id="cond_detune" value="0.20082"/>
+  <Param id="fx_reverb_damp" value="0.48982"/>
+  <Param id="fx_reverb_decay" value="1.088"/>
+  <Param id="fx_reverb_lowcut" value="121.74"/>
+  <Param id="fx_reverb_mix" value="0.15702"/>
+  <Param id="fx_reverb_mod" value="0.25027"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020216"/>
+  <Param id="fx_reverb_size" value="0.50332"/>
+  <Param id="fx_reverb_width" value="0.99315"/>
+  <Param id="model" value="10"/>
+  <Param id="preset_level" value="4.6"/>
+</HamarPreset>

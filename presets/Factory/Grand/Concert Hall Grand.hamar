@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Concert Hall Grand" category="Grand" author="Fjord" tags="Concert,Warm">
+  <Param id="fx_reverb_damp" value="0.498"/>
+  <Param id="fx_reverb_decay" value="2.8593"/>
+  <Param id="fx_reverb_lowcut" value="119.02"/>
+  <Param id="fx_reverb_mix" value="0.24346"/>
+  <Param id="fx_reverb_mod" value="0.2485"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.030865"/>
+  <Param id="fx_reverb_size" value="0.76142"/>
+  <Param id="fx_reverb_width" value="0.98415"/>
+  <Param id="mic_b_level" value="-4.0267"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="0.5"/>
+</HamarPreset>

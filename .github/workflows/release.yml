@@ -1,0 +1,16 @@
+name: Release
+
+# Runs when a tag like v0.2.0 is pushed (see fjord-base/tools/release/bump_version.py): Windows and Linux binaries,
+# notes from CHANGELOG.md. macOS builds are not published, macOS users build from source.
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    uses: fjord-sounds/fjord-base/.github/workflows/plugin-release.yml@main
+    with:
+      target: Hamar

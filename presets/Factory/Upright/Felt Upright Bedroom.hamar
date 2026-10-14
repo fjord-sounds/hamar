@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Felt Upright Bedroom" category="Upright" author="Fjord" tags="Felt,Soft,Intimate">
+  <Param id="fx_reverb_damp" value="0.48678"/>
+  <Param id="fx_reverb_decay" value="1.0712"/>
+  <Param id="fx_reverb_lowcut" value="120.99"/>
+  <Param id="fx_reverb_mix" value="0.1585"/>
+  <Param id="fx_reverb_mod" value="0.24324"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020188"/>
+  <Param id="fx_reverb_size" value="0.40794"/>
+  <Param id="fx_reverb_width" value="0.99893"/>
+  <Param id="model" value="11"/>
+  <Param id="preset_level" value="4.3"/>
+</HamarPreset>

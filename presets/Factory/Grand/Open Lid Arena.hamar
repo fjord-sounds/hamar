@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Open Lid Arena" category="Grand" author="Fjord" tags="Concert,Bright">
+  <Param id="fx_reverb_damp" value="0.49183"/>
+  <Param id="fx_reverb_decay" value="2.9143"/>
+  <Param id="fx_reverb_lowcut" value="120.15"/>
+  <Param id="fx_reverb_mix" value="0.28131"/>
+  <Param id="fx_reverb_mod" value="0.25066"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.048794"/>
+  <Param id="fx_reverb_size" value="0.88987"/>
+  <Param id="fx_reverb_width" value="0.99358"/>
+  <Param id="fx_width_amount" value="1.3362"/>
+  <Param id="fx_width_mono" value="148.74"/>
+  <Param id="fx_width_on" value="1"/>
+  <Param id="mic_a_level" value="-6.0566"/>
+  <Param id="mic_b_level" value="0"/>
+  <Param id="mic_b_y" value="0.93713"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="5"/>
+</HamarPreset>

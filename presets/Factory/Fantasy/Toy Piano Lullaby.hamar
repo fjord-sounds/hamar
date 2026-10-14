@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Toy Piano Lullaby" category="Fantasy" author="Fjord" tags="Soft,Intimate">
+  <Param id="fx_delay_damp" value="0.50088"/>
+  <Param id="fx_delay_feedback" value="0.35102"/>
+  <Param id="fx_delay_lowcut" value="201.59"/>
+  <Param id="fx_delay_mix" value="0.15598"/>
+  <Param id="fx_delay_mode" value="1"/>
+  <Param id="fx_delay_note" value="7"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.48689"/>
+  <Param id="fx_reverb_decay" value="2.1919"/>
+  <Param id="fx_reverb_lowcut" value="118.91"/>
+  <Param id="fx_reverb_mix" value="0.24496"/>
+  <Param id="fx_reverb_mod" value="0.25389"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019614"/>
+  <Param id="fx_reverb_size" value="0.53825"/>
+  <Param id="fx_reverb_width" value="1.0222"/>
+  <Param id="model" value="33"/>
+  <Param id="preset_level" value="2.1"/>
+</HamarPreset>

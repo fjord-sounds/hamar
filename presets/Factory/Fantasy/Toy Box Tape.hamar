@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Toy Box Tape" category="Fantasy" author="Fjord" tags="Lo-Fi,Intimate">
+  <Param id="fx_lofi_age" value="0.51425"/>
+  <Param id="fx_lofi_flutter" value="0.29514"/>
+  <Param id="fx_lofi_mix" value="1"/>
+  <Param id="fx_lofi_noise" value="0.078144"/>
+  <Param id="fx_lofi_on" value="1"/>
+  <Param id="fx_lofi_wow" value="0.41064"/>
+  <Param id="fx_reverb_damp" value="0.49592"/>
+  <Param id="fx_reverb_decay" value="0.97749"/>
+  <Param id="fx_reverb_lowcut" value="117.67"/>
+  <Param id="fx_reverb_mix" value="0.13611"/>
+  <Param id="fx_reverb_mod" value="0.25294"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019458"/>
+  <Param id="fx_reverb_size" value="0.39331"/>
+  <Param id="fx_reverb_width" value="0.98987"/>
+  <Param id="model" value="33"/>
+  <Param id="preset_level" value="2.2"/>
+</HamarPreset>

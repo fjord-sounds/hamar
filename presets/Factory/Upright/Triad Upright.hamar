@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Triad Upright" category="Upright" author="Fjord" tags="Pop">
+  <Param id="fx_compressor_attack" value="14.926"/>
+  <Param id="fx_compressor_knee" value="7.9535"/>
+  <Param id="fx_compressor_makeup" value="1.9408"/>
+  <Param id="fx_compressor_mix" value="1"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.027"/>
+  <Param id="fx_compressor_release" value="155.67"/>
+  <Param id="fx_compressor_thresh" value="-22.02"/>
+  <Param id="fx_reverb_damp" value="0.50466"/>
+  <Param id="fx_reverb_decay" value="1.464"/>
+  <Param id="fx_reverb_lowcut" value="120.16"/>
+  <Param id="fx_reverb_mix" value="0.15781"/>
+  <Param id="fx_reverb_mod" value="0.24835"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019428"/>
+  <Param id="fx_reverb_size" value="0.44237"/>
+  <Param id="fx_reverb_width" value="1.0098"/>
+  <Param id="model" value="8"/>
+  <Param id="preset_level" value="3.8"/>
+  <Param id="tools_chord" value="3"/>
+  <Param id="tools_strum" value="0.012"/>
+</HamarPreset>

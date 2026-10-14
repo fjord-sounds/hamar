@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Warm Tape Grand" category="Grand" author="Fjord" tags="Warm,Vintage">
+  <Param id="fx_reverb_damp" value="0.50699"/>
+  <Param id="fx_reverb_decay" value="1.6075"/>
+  <Param id="fx_reverb_lowcut" value="117.69"/>
+  <Param id="fx_reverb_mix" value="0.15987"/>
+  <Param id="fx_reverb_mod" value="0.24532"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020199"/>
+  <Param id="fx_reverb_size" value="0.48771"/>
+  <Param id="fx_reverb_width" value="1.0222"/>
+  <Param id="fx_saturation_autogain" value="1"/>
+  <Param id="fx_saturation_drive" value="0.29888"/>
+  <Param id="fx_saturation_mix" value="0.7147"/>
+  <Param id="fx_saturation_mode" value="0"/>
+  <Param id="fx_saturation_on" value="1"/>
+  <Param id="fx_saturation_tone" value="-0.20466"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="0.6"/>
+</HamarPreset>

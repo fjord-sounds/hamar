@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Indie Grand" category="Grand" author="Fjord" tags="Vintage,Intimate">
+  <Param id="cond_detune" value="0.15157"/>
+  <Param id="fx_lofi_age" value="0.2503"/>
+  <Param id="fx_lofi_flutter" value="0.14802"/>
+  <Param id="fx_lofi_mix" value="1"/>
+  <Param id="fx_lofi_noise" value="0.050829"/>
+  <Param id="fx_lofi_on" value="1"/>
+  <Param id="fx_lofi_wow" value="0.19568"/>
+  <Param id="fx_reverb_damp" value="0.50739"/>
+  <Param id="fx_reverb_decay" value="0.996"/>
+  <Param id="fx_reverb_lowcut" value="117.42"/>
+  <Param id="fx_reverb_mix" value="0.13937"/>
+  <Param id="fx_reverb_mod" value="0.2475"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.01946"/>
+  <Param id="fx_reverb_size" value="0.39526"/>
+  <Param id="fx_reverb_width" value="0.98713"/>
+  <Param id="model" value="5"/>
+  <Param id="preset_level" value="5"/>
+</HamarPreset>

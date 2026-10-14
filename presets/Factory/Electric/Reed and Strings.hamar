@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Reed and Strings" category="Electric" author="Fjord" tags="Warm,Pop">
+  <Param id="fx_reverb_damp" value="0.50626"/>
+  <Param id="fx_reverb_decay" value="1.9444"/>
+  <Param id="fx_reverb_lowcut" value="120.23"/>
+  <Param id="fx_reverb_mix" value="0.19895"/>
+  <Param id="fx_reverb_mod" value="0.25341"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020123"/>
+  <Param id="fx_reverb_size" value="0.55554"/>
+  <Param id="fx_reverb_width" value="0.99313"/>
+  <Param id="layer_level" value="0.35959"/>
+  <Param id="layer_type" value="1"/>
+  <Param id="model" value="16"/>
+  <Param id="preset_level" value="1.8"/>
+</HamarPreset>

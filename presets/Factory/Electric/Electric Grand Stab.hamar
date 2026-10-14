@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Electric Grand Stab" category="Electric" author="Fjord" tags="Bright,Pop">
+  <Param id="ep_treble" value="2.9239"/>
+  <Param id="fx_compressor_attack" value="8.071"/>
+  <Param id="fx_compressor_knee" value="7.8834"/>
+  <Param id="fx_compressor_makeup" value="3.0432"/>
+  <Param id="fx_compressor_mix" value="0.99541"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="3.0162"/>
+  <Param id="fx_compressor_release" value="120.84"/>
+  <Param id="fx_compressor_thresh" value="-22.057"/>
+  <Param id="fx_reverb_damp" value="0.514"/>
+  <Param id="fx_reverb_decay" value="0.82256"/>
+  <Param id="fx_reverb_lowcut" value="118.48"/>
+  <Param id="fx_reverb_mix" value="0.097804"/>
+  <Param id="fx_reverb_mod" value="0.25582"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019429"/>
+  <Param id="fx_reverb_size" value="0.35909"/>
+  <Param id="fx_reverb_width" value="0.98945"/>
+  <Param id="model" value="17"/>
+  <Param id="preset_level" value="8.8"/>
+</HamarPreset>

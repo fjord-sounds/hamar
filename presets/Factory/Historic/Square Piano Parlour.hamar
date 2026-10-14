@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Square Piano Parlour" category="Historic" author="Fjord" tags="Vintage,Intimate">
+  <Param id="fx_reverb_damp" value="0.50549"/>
+  <Param id="fx_reverb_decay" value="0.99958"/>
+  <Param id="fx_reverb_lowcut" value="118.27"/>
+  <Param id="fx_reverb_mix" value="0.14323"/>
+  <Param id="fx_reverb_mod" value="0.25497"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019681"/>
+  <Param id="fx_reverb_size" value="0.40229"/>
+  <Param id="fx_reverb_width" value="1.0087"/>
+  <Param id="model" value="22"/>
+  <Param id="preset_level" value="5"/>
+</HamarPreset>

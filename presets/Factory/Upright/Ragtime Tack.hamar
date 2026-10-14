@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Ragtime Tack" category="Upright" author="Fjord" tags="Vintage,Bright">
+  <Param id="fx_reverb_damp" value="0.51179"/>
+  <Param id="fx_reverb_decay" value="0.89336"/>
+  <Param id="fx_reverb_lowcut" value="121.07"/>
+  <Param id="fx_reverb_mix" value="0.1224"/>
+  <Param id="fx_reverb_mod" value="0.24863"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020342"/>
+  <Param id="fx_reverb_size" value="0.40181"/>
+  <Param id="fx_reverb_width" value="1.0111"/>
+  <Param id="model" value="13"/>
+  <Param id="preset_level" value="2.8"/>
+</HamarPreset>

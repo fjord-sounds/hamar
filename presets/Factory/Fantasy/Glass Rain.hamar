@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Glass Rain" category="Fantasy" author="Fjord" tags="Bright,Soft">
+  <Param id="fan_shimmer" value="0.61331"/>
+  <Param id="fx_delay_damp" value="0.48957"/>
+  <Param id="fx_delay_feedback" value="0.44529"/>
+  <Param id="fx_delay_lowcut" value="194.54"/>
+  <Param id="fx_delay_mix" value="0.20315"/>
+  <Param id="fx_delay_mode" value="3"/>
+  <Param id="fx_delay_note" value="9"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.50961"/>
+  <Param id="fx_reverb_decay" value="2.5876"/>
+  <Param id="fx_reverb_lowcut" value="116.64"/>
+  <Param id="fx_reverb_mix" value="0.26748"/>
+  <Param id="fx_reverb_mod" value="0.25136"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019413"/>
+  <Param id="fx_reverb_size" value="0.60355"/>
+  <Param id="fx_reverb_width" value="0.99816"/>
+  <Param id="model" value="30"/>
+  <Param id="preset_level" value="-11.4"/>
+</HamarPreset>

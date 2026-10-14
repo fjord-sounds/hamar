@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Pianet Chorus" category="Electric" author="Fjord" tags="Pop,Warm">
+  <Param id="fx_motion_depth" value="0.3921"/>
+  <Param id="fx_motion_feedback" value="0.14916"/>
+  <Param id="fx_motion_mix" value="0.3959"/>
+  <Param id="fx_motion_mode" value="0"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.50462"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.48501"/>
+  <Param id="fx_reverb_decay" value="1.44"/>
+  <Param id="fx_reverb_lowcut" value="123.2"/>
+  <Param id="fx_reverb_mix" value="0.1411"/>
+  <Param id="fx_reverb_mod" value="0.24952"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020528"/>
+  <Param id="fx_reverb_size" value="0.44982"/>
+  <Param id="fx_reverb_width" value="1.0087"/>
+  <Param id="model" value="18"/>
+  <Param id="preset_level" value="6.6"/>
+</HamarPreset>

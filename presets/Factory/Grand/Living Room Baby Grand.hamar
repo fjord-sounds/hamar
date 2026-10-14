@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Living Room Baby Grand" category="Grand" author="Fjord" tags="Intimate,Warm">
+  <Param id="fx_reverb_damp" value="0.48785"/>
+  <Param id="fx_reverb_decay" value="0.92364"/>
+  <Param id="fx_reverb_lowcut" value="120.26"/>
+  <Param id="fx_reverb_mix" value="0.14409"/>
+  <Param id="fx_reverb_mod" value="0.2487"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019428"/>
+  <Param id="fx_reverb_size" value="0.34786"/>
+  <Param id="fx_reverb_width" value="0.97601"/>
+  <Param id="mic_a_y" value="0.34575"/>
+  <Param id="mic_b_level" value="0"/>
+  <Param id="model" value="5"/>
+  <Param id="preset_level" value="5.9"/>
+</HamarPreset>

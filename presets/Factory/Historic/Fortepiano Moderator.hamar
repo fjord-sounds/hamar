@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Fortepiano Moderator" category="Historic" author="Fjord" tags="Vintage,Soft,Felt">
+  <Param id="fx_reverb_damp" value="0.5141"/>
+  <Param id="fx_reverb_decay" value="1.4295"/>
+  <Param id="fx_reverb_lowcut" value="117.48"/>
+  <Param id="fx_reverb_mix" value="0.20076"/>
+  <Param id="fx_reverb_mod" value="0.24696"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020129"/>
+  <Param id="fx_reverb_size" value="0.48797"/>
+  <Param id="fx_reverb_width" value="1.0182"/>
+  <Param id="hammer_felt" value="0.69074"/>
+  <Param id="model" value="20"/>
+  <Param id="preset_level" value="5.6"/>
+</HamarPreset>

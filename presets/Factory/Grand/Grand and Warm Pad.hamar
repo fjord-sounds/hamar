@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Grand and Warm Pad" category="Grand" author="Fjord" tags="Warm,Pop">
+  <Param id="fx_reverb_damp" value="0.49184"/>
+  <Param id="fx_reverb_decay" value="2.2083"/>
+  <Param id="fx_reverb_lowcut" value="122.74"/>
+  <Param id="fx_reverb_mix" value="0.20556"/>
+  <Param id="fx_reverb_mod" value="0.24414"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020206"/>
+  <Param id="fx_reverb_size" value="0.58534"/>
+  <Param id="fx_reverb_width" value="1.003"/>
+  <Param id="layer_attack" value="0.59271"/>
+  <Param id="layer_level" value="0.34427"/>
+  <Param id="layer_release" value="2.0258"/>
+  <Param id="layer_type" value="0"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="0.6"/>
+</HamarPreset>

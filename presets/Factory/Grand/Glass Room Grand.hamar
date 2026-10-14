@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Glass Room Grand" category="Grand" author="Fjord" tags="Bright">
+  <Param id="fx_eq_high_gain" value="2.0097"/>
+  <Param id="fx_eq_highcut" value="19920"/>
+  <Param id="fx_eq_low_freq" value="117.09"/>
+  <Param id="fx_eq_low_gain" value="0"/>
+  <Param id="fx_eq_lowcut" value="30.002"/>
+  <Param id="fx_eq_mid2_freq" value="3484.2"/>
+  <Param id="fx_eq_mid2_gain" value="1.5076"/>
+  <Param id="fx_eq_mid_freq" value="511.04"/>
+  <Param id="fx_eq_mid_gain" value="0"/>
+  <Param id="fx_eq_mid_q" value="0.9232"/>
+  <Param id="fx_eq_on" value="1"/>
+  <Param id="fx_reverb_damp" value="0.51361"/>
+  <Param id="fx_reverb_decay" value="1.9935"/>
+  <Param id="fx_reverb_lowcut" value="119.75"/>
+  <Param id="fx_reverb_mix" value="0.20184"/>
+  <Param id="fx_reverb_mod" value="0.25654"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019836"/>
+  <Param id="fx_reverb_size" value="0.60964"/>
+  <Param id="fx_reverb_width" value="1.0272"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="0.7"/>
+  <Param id="string_brightness" value="0.29827"/>
+</HamarPreset>

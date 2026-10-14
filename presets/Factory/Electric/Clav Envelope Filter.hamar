@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Clav Envelope Filter" category="Electric" author="Fjord" tags="Bright,Pop">
+  <Param id="fx_compressor_attack" value="7.7686"/>
+  <Param id="fx_compressor_knee" value="7.7684"/>
+  <Param id="fx_compressor_makeup" value="2.036"/>
+  <Param id="fx_compressor_mix" value="0.97362"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.5101"/>
+  <Param id="fx_compressor_release" value="120.33"/>
+  <Param id="fx_compressor_thresh" value="-19.596"/>
+  <Param id="fx_filter_cutoff" value="686.33"/>
+  <Param id="fx_filter_decay" value="0.2187"/>
+  <Param id="fx_filter_env" value="0.77069"/>
+  <Param id="fx_filter_mix" value="1"/>
+  <Param id="fx_filter_on" value="1"/>
+  <Param id="fx_filter_reso" value="0.51448"/>
+  <Param id="fx_filter_type" value="1"/>
+  <Param id="model" value="19"/>
+  <Param id="preset_level" value="12"/>
+</HamarPreset>

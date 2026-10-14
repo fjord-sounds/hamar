@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Spinet Corner" category="Upright" author="Fjord" tags="Vintage,Intimate">
+  <Param id="fx_reverb_damp" value="0.50253"/>
+  <Param id="fx_reverb_decay" value="0.7932"/>
+  <Param id="fx_reverb_lowcut" value="123.4"/>
+  <Param id="fx_reverb_mix" value="0.12241"/>
+  <Param id="fx_reverb_mod" value="0.25038"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020227"/>
+  <Param id="fx_reverb_size" value="0.30813"/>
+  <Param id="fx_reverb_width" value="0.98641"/>
+  <Param id="model" value="10"/>
+  <Param id="preset_level" value="3.4"/>
+</HamarPreset>

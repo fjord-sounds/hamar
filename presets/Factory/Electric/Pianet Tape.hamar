@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Pianet Tape" category="Electric" author="Fjord" tags="Lo-Fi,Vintage">
+  <Param id="fx_eq_high_gain" value="0"/>
+  <Param id="fx_eq_highcut" value="7665.2"/>
+  <Param id="fx_eq_low_freq" value="121.88"/>
+  <Param id="fx_eq_low_gain" value="0"/>
+  <Param id="fx_eq_lowcut" value="29.514"/>
+  <Param id="fx_eq_mid2_freq" value="3546.1"/>
+  <Param id="fx_eq_mid2_gain" value="0"/>
+  <Param id="fx_eq_mid_freq" value="497.65"/>
+  <Param id="fx_eq_mid_gain" value="0"/>
+  <Param id="fx_eq_mid_q" value="0.88642"/>
+  <Param id="fx_eq_on" value="1"/>
+  <Param id="fx_lofi_age" value="0.39114"/>
+  <Param id="fx_lofi_flutter" value="0.19715"/>
+  <Param id="fx_lofi_mix" value="1"/>
+  <Param id="fx_lofi_noise" value="0.059787"/>
+  <Param id="fx_lofi_on" value="1"/>
+  <Param id="fx_lofi_wow" value="0.29884"/>
+  <Param id="model" value="18"/>
+  <Param id="preset_level" value="5.2"/>
+</HamarPreset>

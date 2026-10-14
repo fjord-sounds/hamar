@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Grand and Strings" category="Grand" author="Fjord" tags="Concert,Warm">
+  <Param id="fx_reverb_damp" value="0.50172"/>
+  <Param id="fx_reverb_decay" value="2.6712"/>
+  <Param id="fx_reverb_lowcut" value="119.92"/>
+  <Param id="fx_reverb_mix" value="0.21482"/>
+  <Param id="fx_reverb_mod" value="0.24867"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019503"/>
+  <Param id="fx_reverb_size" value="0.68699"/>
+  <Param id="fx_reverb_width" value="1.0291"/>
+  <Param id="layer_attack" value="0.45522"/>
+  <Param id="layer_level" value="0.39128"/>
+  <Param id="layer_tone" value="0.50549"/>
+  <Param id="layer_type" value="1"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="0.6"/>
+</HamarPreset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Harpsichord Buff" category="Historic" author="Fjord" tags="Vintage,Soft">
+  <Param id="fx_reverb_damp" value="0.48742"/>
+  <Param id="fx_reverb_decay" value="1.3277"/>
+  <Param id="fx_reverb_lowcut" value="118.63"/>
+  <Param id="fx_reverb_mix" value="0.18175"/>
+  <Param id="fx_reverb_mod" value="0.25166"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020428"/>
+  <Param id="fx_reverb_size" value="0.45984"/>
+  <Param id="fx_reverb_width" value="1.0192"/>
+  <Param id="hist_buff" value="0.81964"/>
+  <Param id="hist_register" value="0"/>
+  <Param id="model" value="23"/>
+  <Param id="preset_level" value="5.5"/>
+</HamarPreset>

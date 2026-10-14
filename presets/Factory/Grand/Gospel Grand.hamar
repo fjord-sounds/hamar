@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Gospel Grand" category="Grand" author="Fjord" tags="Bright,Pop">
+  <Param id="fx_compressor_attack" value="12.293"/>
+  <Param id="fx_compressor_knee" value="7.8433"/>
+  <Param id="fx_compressor_makeup" value="2.9329"/>
+  <Param id="fx_compressor_mix" value="0.97944"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.4848"/>
+  <Param id="fx_compressor_release" value="153.41"/>
+  <Param id="fx_compressor_thresh" value="-21.345"/>
+  <Param id="fx_reverb_damp" value="0.49732"/>
+  <Param id="fx_reverb_decay" value="1.8064"/>
+  <Param id="fx_reverb_lowcut" value="116.46"/>
+  <Param id="fx_reverb_mix" value="0.15783"/>
+  <Param id="fx_reverb_mod" value="0.24631"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020043"/>
+  <Param id="fx_reverb_size" value="0.5554"/>
+  <Param id="fx_reverb_width" value="0.97681"/>
+  <Param id="hammer_hardness" value="0.24264"/>
+  <Param id="model" value="6"/>
+  <Param id="preset_level" value="4.5"/>
+</HamarPreset>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Clavichord Chapel" category="Historic" author="Fjord" tags="Vintage,Soft">
+  <Param id="fx_reverb_damp" value="0.49909"/>
+  <Param id="fx_reverb_decay" value="2.7772"/>
+  <Param id="fx_reverb_lowcut" value="117.99"/>
+  <Param id="fx_reverb_mix" value="0.30649"/>
+  <Param id="fx_reverb_mod" value="0.24491"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019801"/>
+  <Param id="fx_reverb_size" value="0.70221"/>
+  <Param id="fx_reverb_width" value="0.99816"/>
+  <Param id="model" value="24"/>
+  <Param id="preset_level" value="3.6"/>
+</HamarPreset>

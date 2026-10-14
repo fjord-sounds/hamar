@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Prepared Gongs" category="Fantasy" author="Fjord" tags="Dark,Vintage">
+  <Param id="fan_prep" value="0.81107"/>
+  <Param id="fx_reverb_damp" value="0.49755"/>
+  <Param id="fx_reverb_decay" value="2.4486"/>
+  <Param id="fx_reverb_lowcut" value="120.88"/>
+  <Param id="fx_reverb_mix" value="0.22643"/>
+  <Param id="fx_reverb_mod" value="0.2453"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.02051"/>
+  <Param id="fx_reverb_size" value="0.61714"/>
+  <Param id="fx_reverb_width" value="0.99786"/>
+  <Param id="model" value="32"/>
+  <Param id="preset_level" value="-5.8"/>
+</HamarPreset>

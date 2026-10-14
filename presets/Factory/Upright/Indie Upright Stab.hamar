@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Indie Upright Stab" category="Upright" author="Fjord" tags="Pop,Bright">
+  <Param id="fx_compressor_attack" value="7.9504"/>
+  <Param id="fx_compressor_knee" value="7.8968"/>
+  <Param id="fx_compressor_makeup" value="2.9781"/>
+  <Param id="fx_compressor_mix" value="0.98986"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.954"/>
+  <Param id="fx_compressor_release" value="120.42"/>
+  <Param id="fx_compressor_thresh" value="-19.788"/>
+  <Param id="fx_reverb_damp" value="0.49273"/>
+  <Param id="fx_reverb_decay" value="0.79434"/>
+  <Param id="fx_reverb_lowcut" value="122.09"/>
+  <Param id="fx_reverb_mix" value="0.10118"/>
+  <Param id="fx_reverb_mod" value="0.24485"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019913"/>
+  <Param id="fx_reverb_size" value="0.35256"/>
+  <Param id="fx_reverb_width" value="0.99034"/>
+  <Param id="hammer_hardness" value="0.34714"/>
+  <Param id="model" value="8"/>
+  <Param id="preset_level" value="5.1"/>
+  <Param id="string_sustain" value="-0.50831"/>
+</HamarPreset>

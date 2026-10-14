@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Mellow Sunday" category="Grand" author="Fjord" tags="Warm,Soft">
+  <Param id="fx_reverb_damp" value="0.50654"/>
+  <Param id="fx_reverb_decay" value="1.9813"/>
+  <Param id="fx_reverb_lowcut" value="122.03"/>
+  <Param id="fx_reverb_mix" value="0.1999"/>
+  <Param id="fx_reverb_mod" value="0.24721"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019682"/>
+  <Param id="fx_reverb_size" value="0.54911"/>
+  <Param id="fx_reverb_width" value="0.97746"/>
+  <Param id="hammer_hardness" value="-0.4069"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="1.4"/>
+  <Param id="string_brightness" value="-0.4107"/>
+</HamarPreset>

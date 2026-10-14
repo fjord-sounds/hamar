@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Sunset House Piano" category="Dance" author="Fjord" tags="Warm,Pop">
+  <Param id="fx_delay_damp" value="0.5099"/>
+  <Param id="fx_delay_feedback" value="0.29488"/>
+  <Param id="fx_delay_lowcut" value="195.11"/>
+  <Param id="fx_delay_mix" value="0.09748"/>
+  <Param id="fx_delay_mode" value="1"/>
+  <Param id="fx_delay_note" value="7"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.49599"/>
+  <Param id="fx_reverb_decay" value="2.4156"/>
+  <Param id="fx_reverb_lowcut" value="119.65"/>
+  <Param id="fx_reverb_mix" value="0.24587"/>
+  <Param id="fx_reverb_mod" value="0.25594"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020294"/>
+  <Param id="fx_reverb_size" value="0.61614"/>
+  <Param id="fx_reverb_width" value="0.97539"/>
+  <Param id="model" value="25"/>
+  <Param id="preset_level" value="5.9"/>
+</HamarPreset>

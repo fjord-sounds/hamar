@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Dry Studio Grand" category="Grand" author="Fjord" tags="Pop">
+  <Param id="mic_a_y" value="0.14768"/>
+  <Param id="mic_b_level" value="-20.255"/>
+  <Param id="model" value="3"/>
+  <Param id="preset_level" value="0.2"/>
+</HamarPreset>

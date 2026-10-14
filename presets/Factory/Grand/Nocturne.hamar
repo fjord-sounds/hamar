@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Nocturne" category="Grand" author="Fjord" tags="Soft,Concert">
+  <Param id="fx_reverb_damp" value="0.51386"/>
+  <Param id="fx_reverb_decay" value="2.5726"/>
+  <Param id="fx_reverb_lowcut" value="120.71"/>
+  <Param id="fx_reverb_mix" value="0.24766"/>
+  <Param id="fx_reverb_mod" value="0.24444"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.02939"/>
+  <Param id="fx_reverb_size" value="0.69594"/>
+  <Param id="fx_reverb_width" value="0.98836"/>
+  <Param id="hammer_hardness" value="-0.49598"/>
+  <Param id="model" value="2"/>
+  <Param id="play_vel_curve" value="-0.19801"/>
+  <Param id="preset_level" value="4.7"/>
+</HamarPreset>

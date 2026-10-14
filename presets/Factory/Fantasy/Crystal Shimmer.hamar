@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Crystal Shimmer" category="Fantasy" author="Fjord" tags="Bright">
+  <Param id="fx_reverb_damp" value="0.4859"/>
+  <Param id="fx_reverb_decay" value="4.4341"/>
+  <Param id="fx_reverb_lowcut" value="120.11"/>
+  <Param id="fx_reverb_mix" value="0.31587"/>
+  <Param id="fx_reverb_mod" value="0.25367"/>
+  <Param id="fx_reverb_mode" value="3"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019586"/>
+  <Param id="fx_reverb_shimmer" value="0.34044"/>
+  <Param id="fx_reverb_size" value="0.82261"/>
+  <Param id="fx_reverb_width" value="0.99118"/>
+  <Param id="model" value="31"/>
+  <Param id="preset_level" value="-1"/>
+</HamarPreset>

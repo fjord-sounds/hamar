@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Aliquot Shine" category="Grand" author="Fjord" tags="Bright,Concert">
+  <Param id="fx_reverb_damp" value="0.48829"/>
+  <Param id="fx_reverb_decay" value="2.3608"/>
+  <Param id="fx_reverb_lowcut" value="117.85"/>
+  <Param id="fx_reverb_mix" value="0.19958"/>
+  <Param id="fx_reverb_mod" value="0.25197"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019885"/>
+  <Param id="fx_reverb_size" value="0.60727"/>
+  <Param id="fx_reverb_width" value="1.0106"/>
+  <Param id="grand_aliquot" value="0.7796"/>
+  <Param id="model" value="0"/>
+  <Param id="preset_level" value="0"/>
+</HamarPreset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Disco Piano" category="Dance" author="Fjord" tags="Bright,Pop">
+  <Param id="dance_punch" value="0.11829"/>
+  <Param id="fx_compressor_attack" value="1.4951"/>
+  <Param id="fx_compressor_knee" value="7.9278"/>
+  <Param id="fx_compressor_makeup" value="2.9767"/>
+  <Param id="fx_compressor_mix" value="0.98074"/>
+  <Param id="fx_compressor_on" value="1"/>
+  <Param id="fx_compressor_ratio" value="2.952"/>
+  <Param id="fx_compressor_release" value="119.26"/>
+  <Param id="fx_compressor_thresh" value="-21.484"/>
+  <Param id="fx_eq_high_gain" value="0"/>
+  <Param id="fx_eq_highcut" value="20000"/>
+  <Param id="fx_eq_low_freq" value="118.36"/>
+  <Param id="fx_eq_low_gain" value="0"/>
+  <Param id="fx_eq_lowcut" value="29.15"/>
+  <Param id="fx_eq_mid2_freq" value="3560"/>
+  <Param id="fx_eq_mid2_gain" value="2.0019"/>
+  <Param id="fx_eq_mid_freq" value="499.74"/>
+  <Param id="fx_eq_mid_gain" value="0"/>
+  <Param id="fx_eq_mid_q" value="0.91677"/>
+  <Param id="fx_eq_on" value="1"/>
+  <Param id="model" value="28"/>
+  <Param id="preset_level" value="5.2"/>
+</HamarPreset>

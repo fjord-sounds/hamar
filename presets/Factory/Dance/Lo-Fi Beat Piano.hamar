@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Lo-Fi Beat Piano" category="Dance" author="Fjord" tags="Lo-Fi,Intimate">
+  <Param id="dance_lofi" value="0.30151"/>
+  <Param id="fx_eq_high_gain" value="0"/>
+  <Param id="fx_eq_highcut" value="6530.5"/>
+  <Param id="fx_eq_low_freq" value="117.01"/>
+  <Param id="fx_eq_low_gain" value="0"/>
+  <Param id="fx_eq_lowcut" value="80.984"/>
+  <Param id="fx_eq_mid2_freq" value="3531.2"/>
+  <Param id="fx_eq_mid2_gain" value="0"/>
+  <Param id="fx_eq_mid_freq" value="486.1"/>
+  <Param id="fx_eq_mid_gain" value="0"/>
+  <Param id="fx_eq_mid_q" value="0.89104"/>
+  <Param id="fx_eq_on" value="1"/>
+  <Param id="fx_reverb_damp" value="0.48705"/>
+  <Param id="fx_reverb_decay" value="0.92363"/>
+  <Param id="fx_reverb_lowcut" value="118.79"/>
+  <Param id="fx_reverb_mix" value="0.1172"/>
+  <Param id="fx_reverb_mod" value="0.25476"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019958"/>
+  <Param id="fx_reverb_size" value="0.35225"/>
+  <Param id="fx_reverb_width" value="0.99193"/>
+  <Param id="model" value="29"/>
+  <Param id="preset_level" value="3.1"/>
+</HamarPreset>

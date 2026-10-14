@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Bedroom Reed" category="Electric" author="Fjord" tags="Soft,Intimate">
+  <Param id="ep_drive" value="0.10285"/>
+  <Param id="ep_pickup" value="0.19752"/>
+  <Param id="fx_motion_depth" value="0.2495"/>
+  <Param id="fx_motion_feedback" value="0.15264"/>
+  <Param id="fx_motion_mix" value="0.24485"/>
+  <Param id="fx_motion_mode" value="0"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.3043"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.49671"/>
+  <Param id="fx_reverb_decay" value="1.2288"/>
+  <Param id="fx_reverb_lowcut" value="123.26"/>
+  <Param id="fx_reverb_mix" value="0.15853"/>
+  <Param id="fx_reverb_mod" value="0.24892"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.0198"/>
+  <Param id="fx_reverb_size" value="0.45084"/>
+  <Param id="fx_reverb_width" value="0.98218"/>
+  <Param id="model" value="16"/>
+  <Param id="preset_level" value="4.3"/>
+</HamarPreset>

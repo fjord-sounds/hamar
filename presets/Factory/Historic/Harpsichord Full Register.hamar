@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Harpsichord Full Register" category="Historic" author="Fjord" tags="Vintage,Bright,Concert">
+  <Param id="fx_reverb_damp" value="0.5088"/>
+  <Param id="fx_reverb_decay" value="2.3414"/>
+  <Param id="fx_reverb_lowcut" value="120.71"/>
+  <Param id="fx_reverb_mix" value="0.23679"/>
+  <Param id="fx_reverb_mod" value="0.25147"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020549"/>
+  <Param id="fx_reverb_size" value="0.69383"/>
+  <Param id="fx_reverb_width" value="1.0092"/>
+  <Param id="hist_register" value="3"/>
+  <Param id="model" value="23"/>
+  <Param id="preset_level" value="4"/>
+</HamarPreset>

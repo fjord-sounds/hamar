@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Old Recital Hall" category="Grand" author="Fjord" tags="Vintage,Concert">
+  <Param id="cond_detune" value="0.19722"/>
+  <Param id="cond_wear" value="0.24615"/>
+  <Param id="fx_reverb_damp" value="0.50802"/>
+  <Param id="fx_reverb_decay" value="2.9849"/>
+  <Param id="fx_reverb_lowcut" value="120.54"/>
+  <Param id="fx_reverb_mix" value="0.25559"/>
+  <Param id="fx_reverb_mod" value="0.24656"/>
+  <Param id="fx_reverb_mode" value="2"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020189"/>
+  <Param id="fx_reverb_size" value="0.81342"/>
+  <Param id="fx_reverb_width" value="1.0168"/>
+  <Param id="model" value="2"/>
+  <Param id="preset_level" value="2.3"/>
+</HamarPreset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Ninety-Two Stab" category="Dance" author="Fjord" tags="Pop,Vintage">
+  <Param id="dance_organ" value="0.24662"/>
+  <Param id="dance_stab" value="0.60522"/>
+  <Param id="fx_reverb_damp" value="0.48882"/>
+  <Param id="fx_reverb_decay" value="1.1926"/>
+  <Param id="fx_reverb_lowcut" value="117.15"/>
+  <Param id="fx_reverb_mix" value="0.11902"/>
+  <Param id="fx_reverb_mod" value="0.25362"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020339"/>
+  <Param id="fx_reverb_size" value="0.39738"/>
+  <Param id="fx_reverb_width" value="0.98187"/>
+  <Param id="model" value="25"/>
+  <Param id="preset_level" value="5.7"/>
+</HamarPreset>

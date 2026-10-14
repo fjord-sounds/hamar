@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Cinematic Grand" category="Grand" author="Fjord" tags="Concert,Dark">
+  <Param id="fx_reverb_damp" value="0.49627"/>
+  <Param id="fx_reverb_decay" value="4.5888"/>
+  <Param id="fx_reverb_lowcut" value="121.56"/>
+  <Param id="fx_reverb_mix" value="0.31333"/>
+  <Param id="fx_reverb_mod" value="0.24515"/>
+  <Param id="fx_reverb_mode" value="3"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.049384"/>
+  <Param id="fx_reverb_shimmer" value="0.24448"/>
+  <Param id="fx_reverb_size" value="0.85976"/>
+  <Param id="fx_reverb_width" value="0.99429"/>
+  <Param id="model" value="1"/>
+  <Param id="preset_level" value="-0.9"/>
+</HamarPreset>

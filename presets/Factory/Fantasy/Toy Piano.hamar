@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Toy Piano" category="Fantasy" author="Fjord" tags="Bright,Intimate">
+  <Param id="fx_reverb_damp" value="0.49701"/>
+  <Param id="fx_reverb_decay" value="0.88621"/>
+  <Param id="fx_reverb_lowcut" value="122.44"/>
+  <Param id="fx_reverb_mix" value="0.13998"/>
+  <Param id="fx_reverb_mod" value="0.24808"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.020253"/>
+  <Param id="fx_reverb_size" value="0.34776"/>
+  <Param id="fx_reverb_width" value="0.9889"/>
+  <Param id="model" value="33"/>
+  <Param id="preset_level" value="1.3"/>
+</HamarPreset>

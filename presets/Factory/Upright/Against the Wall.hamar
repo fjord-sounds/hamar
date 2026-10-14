@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Against the Wall" category="Upright" author="Fjord" tags="Warm,Intimate">
+  <Param id="fx_reverb_damp" value="0.49363"/>
+  <Param id="fx_reverb_decay" value="0.79153"/>
+  <Param id="fx_reverb_lowcut" value="120.45"/>
+  <Param id="fx_reverb_mix" value="0.10008"/>
+  <Param id="fx_reverb_mod" value="0.25028"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019884"/>
+  <Param id="fx_reverb_size" value="0.29266"/>
+  <Param id="fx_reverb_width" value="0.99678"/>
+  <Param id="model" value="9"/>
+  <Param id="preset_level" value="3.1"/>
+  <Param id="upright_wall" value="0.90284"/>
+</HamarPreset>

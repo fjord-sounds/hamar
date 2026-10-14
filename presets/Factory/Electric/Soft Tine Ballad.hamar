@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Soft Tine Ballad" category="Electric" author="Fjord" tags="Soft,Warm">
+  <Param id="ep_bell" value="0.30856"/>
+  <Param id="ep_pickup" value="0.20527"/>
+  <Param id="fx_motion_depth" value="0.29631"/>
+  <Param id="fx_motion_feedback" value="0.15195"/>
+  <Param id="fx_motion_mix" value="0.24753"/>
+  <Param id="fx_motion_mode" value="0"/>
+  <Param id="fx_motion_on" value="1"/>
+  <Param id="fx_motion_rate" value="0.40091"/>
+  <Param id="fx_motion_sync" value="0"/>
+  <Param id="fx_reverb_damp" value="0.5075"/>
+  <Param id="fx_reverb_decay" value="1.7843"/>
+  <Param id="fx_reverb_lowcut" value="117.97"/>
+  <Param id="fx_reverb_mix" value="0.17832"/>
+  <Param id="fx_reverb_mod" value="0.24382"/>
+  <Param id="fx_reverb_mode" value="1"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019726"/>
+  <Param id="fx_reverb_size" value="0.50252"/>
+  <Param id="fx_reverb_width" value="1.0245"/>
+  <Param id="model" value="14"/>
+  <Param id="preset_level" value="9.3"/>
+</HamarPreset>

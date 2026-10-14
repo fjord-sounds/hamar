@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HamarPreset name="Rain on the Lid" category="Grand" author="Fjord" tags="Felt,Soft,Intimate">
+  <Param id="fx_delay_damp" value="0.49667"/>
+  <Param id="fx_delay_feedback" value="0.44611"/>
+  <Param id="fx_delay_lowcut" value="204.52"/>
+  <Param id="fx_delay_mix" value="0.15583"/>
+  <Param id="fx_delay_mode" value="3"/>
+  <Param id="fx_delay_note" value="9"/>
+  <Param id="fx_delay_on" value="1"/>
+  <Param id="fx_delay_pingpong" value="1"/>
+  <Param id="fx_delay_sync" value="1"/>
+  <Param id="fx_reverb_damp" value="0.49092"/>
+  <Param id="fx_reverb_decay" value="1.553"/>
+  <Param id="fx_reverb_lowcut" value="118.51"/>
+  <Param id="fx_reverb_mix" value="0.24683"/>
+  <Param id="fx_reverb_mod" value="0.25093"/>
+  <Param id="fx_reverb_mode" value="0"/>
+  <Param id="fx_reverb_on" value="1"/>
+  <Param id="fx_reverb_predelay" value="0.019541"/>
+  <Param id="fx_reverb_size" value="0.48612"/>
+  <Param id="fx_reverb_width" value="0.99506"/>
+  <Param id="grand_lid" value="1"/>
+  <Param id="model" value="7"/>
+  <Param id="preset_level" value="5.6"/>
+</HamarPreset>
